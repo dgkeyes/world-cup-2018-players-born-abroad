@@ -1,0 +1,737 @@
+team,group,squad_number,position,player,date_of_birth,age,caps,goals,club,player_count,wiki_link,birthplace,lon,lat
+Egypt,A,1,GK,Essam El-Hadary ,1973-01-15,45,157,0,Al-Taawoun,1,https://en.wikipedia.org/wiki/Essam_El-Hadary,"Kafr El-Battikh, Damietta, Egypt",31.739417,31.4027024
+Egypt,A,2,DF,Ali Gabr,1989-01-01,29,20,1,West Bromwich Albion,1,https://en.wikipedia.org/wiki/Ali_Gabr,"Alexandria, Egypt",29.9187387,31.2000924
+Egypt,A,3,DF,Ahmed Elmohamady,1987-09-09,30,77,2,Aston Villa,1,https://en.wikipedia.org/wiki/Ahmed_Elmohamady,"Basyoun, Egypt",30.8157423,30.9422647
+Egypt,A,4,MF,Omar Gaber,1992-01-30,26,23,0,Los Angeles FC,1,https://en.wikipedia.org/wiki/Omar_Gaber,"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,5,MF,Sam Morsy,1991-09-10,26,4,0,Wigan Athletic,1,https://en.wikipedia.org/wiki/Sam_Morsy,"Wolverhampton, England",-2.12882,52.586973
+Egypt,A,6,DF,Ahmed Hegazi,1991-01-25,27,44,1,West Bromwich Albion,1,https://en.wikipedia.org/wiki/Ahmed_Hegazi_(footballer),"Ismailia, Egypt",32.2714587,30.5964923
+Egypt,A,7,DF,Ahmed Fathy,1984-11-10,33,125,3,Al Ahly,1,https://en.wikipedia.org/wiki/Ahmed_Fathy,"Banha, Egypt",31.1848307,30.4659929
+Egypt,A,8,MF,Tarek Hamed,1988-10-24,29,20,0,Zamalek,1,https://en.wikipedia.org/wiki/Tarek_Hamed,"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,9,FW,Marwan Mohsen,1989-02-26,29,23,4,Al Ahly,1,https://en.wikipedia.org/wiki/Marwan_Mohsen,"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,10,FW,Mohamed Salah,1992-06-15,25,57,33,Liverpool,1,https://en.wikipedia.org/wiki/Mohamed_Salah,"Nagrig, Egypt",30.8671201,30.9762977
+Egypt,A,11,FW,Kahraba,1994-04-13,24,18,3,Al-Ittihad,1,https://en.wikipedia.org/wiki/Kahraba_(footballer),"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,12,DF,Ayman Ashraf,1991-04-09,27,4,0,Al Ahly,1,https://en.wikipedia.org/wiki/Ayman_Ashraf,"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,13,DF,Mohamed Abdel-Shafy,1985-07-01,32,50,1,Al-Fateh,1,https://en.wikipedia.org/wiki/Mohamed_Abdel-Shafy,"El Marg, Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,14,FW,Ramadan Sobhi,1997-01-23,21,22,1,Stoke City,1,https://en.wikipedia.org/wiki/Ramadan_Sobhi,"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,15,DF,Mahmoud Hamdy,1995-06-01,23,0,0,Zamalek,1,https://en.wikipedia.org/wiki/Mahmoud_Hamdy,"Belbais, Egypt",31.5621184,30.4158383
+Egypt,A,16,GK,Sherif Ekramy,1983-07-10,34,22,0,Al Ahly,1,https://en.wikipedia.org/wiki/Sherif_Ekramy,"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,17,MF,Mohamed Elneny,1992-07-11,25,60,5,Arsenal,1,https://en.wikipedia.org/wiki/Mohamed_Elneny,"El-Mahalla El-Kubra, Egypt",31.168083,30.9696706
+Egypt,A,18,FW,Shikabala,1986-03-05,32,29,2,Al-Raed,1,https://en.wikipedia.org/wiki/Shikabala,"Aswan, Egypt",32.8998293,24.088938
+Egypt,A,19,MF,Abdallah Said,1985-07-13,32,35,6,KuPS,1,https://en.wikipedia.org/wiki/Abdallah_Said,"Ismailia, Egypt",32.2714587,30.5964923
+Egypt,A,20,DF,Saad Samir,1989-04-01,29,11,0,Al Ahly,1,https://en.wikipedia.org/wiki/Saad_Samir,"Cairo, Egypt",31.2357116,30.0444196
+Egypt,A,21,MF,Trézéguet,1994-10-01,23,23,2,Kasımpaşa,1,https://en.wikipedia.org/wiki/Mahmoud_Hassan_(footballer),"Kafr El Sheikh, Egypt",30.9419751,31.1063198
+Egypt,A,22,FW,Amr Warda,1993-09-17,24,15,0,Atromitos,1,https://en.wikipedia.org/wiki/Amr_Warda,"Alexandria, Egypt",29.9187387,31.2000924
+Egypt,A,23,GK,Mohamed El-Shenawy,1988-12-18,29,2,0,Al Ahly,1,https://en.wikipedia.org/wiki/Mohamed_El-Shenawy,"Al Hamool, Egypt",31.1501813,31.3091986
+Russia,A,1,GK,Igor Akinfeev ,1986-04-08,32,105,0,CSKA Moscow,1,https://en.wikipedia.org/wiki/Igor_Akinfeev,"Vidnoye, Soviet Union",37.6986011,55.54708919999999
+Russia,A,2,DF,Mário Fernandes,1990-09-19,27,4,0,CSKA Moscow,1,https://en.wikipedia.org/wiki/M%C3%A1rio_Figueira_Fernandes,"São Caetano do Sul, Brazil",-46.5552433,-23.6233625
+Russia,A,3,DF,Ilya Kutepov,1993-07-29,24,6,0,Spartak Moscow,1,https://en.wikipedia.org/wiki/Ilya_Kutepov,"Stavropol, Russia",41.9683431,45.0454764
+Russia,A,4,DF,Sergei Ignashevich,1979-07-14,38,121,8,CSKA Moscow,1,https://en.wikipedia.org/wiki/Sergei_Ignashevich,"Moscow, Russian SFSR, Soviet Union",37.6172999,55.755826
+Russia,A,5,DF,Andrei Semyonov,1989-03-24,29,6,0,Akhmat Grozny,1,https://en.wikipedia.org/wiki/Andrei_Sergeyevich_Semyonov,"Moscow, Russian SFSR",37.6172999,55.755826
+Russia,A,6,MF,Denis Cheryshev,1990-12-26,27,11,0,Villarreal,1,https://en.wikipedia.org/wiki/Denis_Cheryshev,"Nizhny Novgorod, Soviet Union",43.93605900000001,56.2965039
+Russia,A,7,MF,Daler Kuzyayev,1993-01-15,25,5,0,Zenit Saint Petersburg,1,https://en.wikipedia.org/wiki/Daler_Kuzyayev,"Naberezhnye Chelny, Russia",52.3721038,55.7185054
+Russia,A,8,MF,Yury Gazinsky,1989-07-20,28,5,0,Krasnodar,1,https://en.wikipedia.org/wiki/Yury_Gazinsky,"Komsomolsk-on-Amur,Khabarovsk Krai, Soviet Union",136.9658947,50.5670331
+Russia,A,9,MF,Alan Dzagoev,1990-06-17,27,56,9,CSKA Moscow,1,https://en.wikipedia.org/wiki/Alan_Dzagoev,"Beslan, Soviet Union",44.5483745,43.1936595
+Russia,A,10,FW,Fyodor Smolov,1990-02-09,28,31,12,Krasnodar,1,https://en.wikipedia.org/wiki/Fyodor_Smolov,"Saratov, Russian SFSR, Soviet Union",45.9608031,51.5923654
+Russia,A,11,MF,Roman Zobnin,1994-02-11,24,11,0,Spartak Moscow,1,https://en.wikipedia.org/wiki/Roman_Zobnin,"Irkutsk, Russia",104.3050183,52.28697409999999
+Russia,A,12,GK,Andrey Lunyov,1991-11-13,26,3,0,Zenit Saint Petersburg,1,https://en.wikipedia.org/wiki/Andrey_Lunyov,"Moscow, Soviet Union",37.6172999,55.755826
+Russia,A,13,DF,Fyodor Kudryashov,1987-04-05,31,18,0,Rubin Kazan,1,https://en.wikipedia.org/wiki/Fyodor_Kudryashov,"Irkutsk Oblast, Russian SFSR, Soviet Union",103.948625,56.13214199999999
+Russia,A,14,DF,Vladimir Granat,1987-05-22,31,12,1,Rubin Kazan,1,https://en.wikipedia.org/wiki/Vladimir_Granat,"Ulan-Ude, Soviet Union",107.607338,51.8238785
+Russia,A,15,MF,Aleksei Miranchuk,1995-10-17,22,17,4,Lokomotiv Moscow,1,https://en.wikipedia.org/wiki/Aleksei_Miranchuk,"Slavyansk-na-Kubani, Russia",38.124859,45.2588008
+Russia,A,16,MF,Anton Miranchuk,1995-10-17,22,5,0,Lokomotiv Moscow,1,https://en.wikipedia.org/wiki/Anton_Miranchuk,"Slavyansk-na-Kubani, Russia",38.124859,45.2588008
+Russia,A,17,MF,Aleksandr Golovin,1996-05-30,22,18,2,CSKA Moscow,1,https://en.wikipedia.org/wiki/Aleksandr_Golovin_(footballer),"Kaltan, Russia",87.2691571,53.5216252
+Russia,A,18,MF,Yuri Zhirkov,1983-08-20,34,83,2,Zenit Saint Petersburg,1,https://en.wikipedia.org/wiki/Yuri_Zhirkov,"Tambov, Russian SFSR, Soviet Union",41.4423062,52.723598
+Russia,A,19,MF,Aleksandr Samedov,1984-07-19,33,47,6,Spartak Moscow,1,https://en.wikipedia.org/wiki/Aleksandr_Samedov,"Moscow, Soviet Union",37.6172999,55.755826
+Russia,A,20,GK,Vladimir Gabulov,1983-10-19,34,10,0,Club Brugge,1,https://en.wikipedia.org/wiki/Vladimir_Gabulov,"Mozdok, Soviet Union",44.6490428,43.7537688
+Russia,A,21,MF,Aleksandr Yerokhin,1989-10-13,28,17,0,Zenit Saint Petersburg,1,https://en.wikipedia.org/wiki/Aleksandr_Yerokhin,"Barnaul, Soviet Union",83.6812451,53.3547808
+Russia,A,22,FW,Artem Dzyuba,1988-08-22,29,23,11,Arsenal Tula,1,https://en.wikipedia.org/wiki/Artem_Dzyuba,"Moscow, Soviet Union",37.6172999,55.755826
+Russia,A,23,DF,Igor Smolnikov,1988-08-08,29,26,0,Zenit Saint Petersburg,1,https://en.wikipedia.org/wiki/Igor_Smolnikov,"Kamensk-Uralsky, Soviet Union",61.913483,56.42414489999999
+Saudi Arabia,A,1,GK,Abdullah Al-Mayouf,1987-01-23,31,10,0,Al-Hilal,1,https://en.wikipedia.org/wiki/Abdullah_Al-Mayouf,"Riyadh, Saudi Arabia",46.6752957,24.7135517
+Saudi Arabia,A,2,DF,Mansoor Al-Harbi,1987-10-19,30,39,1,Al-Ahli,1,https://en.wikipedia.org/wiki/Mansoor_Al-Harbi,"Jeddah, Saudi Arabia",39.19250479999999,21.485811000000002
+Saudi Arabia,A,3,DF,Osama Hawsawi ,1984-03-31,34,134,7,Al-Hilal,1,https://en.wikipedia.org/wiki/Osama_Hawsawi,"Mecca, Saudi Arabia",39.8579118,21.3890824
+Saudi Arabia,A,4,DF,Ali Al-Bulaihi,1989-11-21,28,3,0,Al-Hilal,1,https://en.wikipedia.org/wiki/Ali_Al-Bulaihi,Saudi Arabia,45.079162,23.885942
+Saudi Arabia,A,5,DF,Omar Hawsawi,1985-09-27,32,41,3,Al-Nassr,1,https://en.wikipedia.org/wiki/Omar_Hawsawi,Saudi Arabia,45.079162,23.885942
+Saudi Arabia,A,6,DF,Mohammed Al-Breik,1992-09-15,25,10,1,Al-Hilal,1,https://en.wikipedia.org/wiki/Mohammed_Al-Breik,Saudi Arabia,45.079162,23.885942
+Saudi Arabia,A,7,MF,Salman Al-Faraj,1989-08-01,28,42,3,Al-Hilal,1,https://en.wikipedia.org/wiki/Salman_Al-Faraj,"Medina, Saudi Arabia",39.5691841,24.5246542
+Saudi Arabia,A,8,MF,Yahya Al-Shehri,1990-06-26,27,56,8,Leganés,1,https://en.wikipedia.org/wiki/Yahya_Al-Shehri,"Dammam, Saudi Arabia",50.088794300000004,26.4206828
+Saudi Arabia,A,9,MF,Hattan Bahebri,1992-07-16,25,4,0,Al-Shabab,1,https://en.wikipedia.org/wiki/Hattan_Bahebri,"Jeddah, Saudi Arabia",39.19250479999999,21.485811000000002
+Saudi Arabia,A,10,FW,Mohammad Al-Sahlawi,1987-01-10,31,39,28,Al-Nassr,1,https://en.wikipedia.org/wiki/Mohammad_Al-Sahlawi,"Hofuf, Saudi Arabia",49.5887652,25.380026
+Saudi Arabia,A,11,MF,Abdulmalek Al-Khaibri,1986-03-13,32,36,0,Al-Hilal,1,https://en.wikipedia.org/wiki/Abdulmalek_Al-Khaibri,"Riyadh,Saudi Arabia",46.6752957,24.7135517
+Saudi Arabia,A,12,MF,Mohamed Kanno,1994-09-22,23,6,1,Al-Hilal,1,https://en.wikipedia.org/wiki/Mohamed_Kanno,Saudi Arabia,45.079162,23.885942
+Saudi Arabia,A,13,DF,Yasser Al-Shahrani,1992-05-25,26,36,0,Al-Hilal,1,https://en.wikipedia.org/wiki/Yasser_Al-Shahrani,"Dammam, Saudi Arabia",50.088794300000004,26.4206828
+Saudi Arabia,A,14,MF,Abdullah Otayf,1992-08-03,25,15,1,Al-Hilal,1,https://en.wikipedia.org/wiki/Abdullah_Otayf,"Riyadh, Saudi Arabia",46.6752957,24.7135517
+Saudi Arabia,A,15,MF,Abdullah Al-Khaibari,1996-08-16,21,4,0,Al-Shabab,1,https://en.wikipedia.org/wiki/Abdullah_Al-Khaibari,Saudi Arabia,45.079162,23.885942
+Saudi Arabia,A,16,MF,Housain Al-Mogahwi,1988-03-24,30,17,1,Al-Ahli,1,https://en.wikipedia.org/wiki/Housain_Al-Mogahwi,"Jeddah, Saudi Arabia",39.19250479999999,21.485811000000002
+Saudi Arabia,A,17,MF,Taisir Al-Jassim,1984-07-25,33,131,18,Al-Ahli,1,https://en.wikipedia.org/wiki/Taisir_Al-Jassim,"Al-Hasa, Saudi Arabia",49.5887652,25.380026
+Saudi Arabia,A,18,MF,Salem Al-Dawsari,1991-08-19,26,32,4,Villarreal,1,https://en.wikipedia.org/wiki/Salem_Al-Dawsari,"Jeddah, Saudi Arabia",39.19250479999999,21.485811000000002
+Saudi Arabia,A,19,FW,Fahad Al-Muwallad,1994-09-14,23,44,10,Levante,1,https://en.wikipedia.org/wiki/Fahad_Al-Muwallad,"Jeddah, Saudi Arabia",39.19250479999999,21.485811000000002
+Saudi Arabia,A,20,FW,Muhannad Assiri,1986-10-14,31,18,4,Al-Ahli,1,https://en.wikipedia.org/wiki/Muhannad_Assiri,"Muhayil, Saudi Arabia",42.0534398,18.5473952
+Saudi Arabia,A,21,GK,Yasser Al-Mosailem,1984-02-27,34,32,0,Al-Ahli,1,https://en.wikipedia.org/wiki/Yasser_Al-Mosailem,"Al-Ahsa, Saudi Arabia",50.6793759,22.2954496
+Saudi Arabia,A,22,GK,Mohammed Al-Owais,1991-10-10,26,6,0,Al-Ahli,1,https://en.wikipedia.org/wiki/Mohammed_Al-Owais,"Al-Hasa, Saudi Arabia",49.5887652,25.380026
+Saudi Arabia,A,23,DF,Motaz Hawsawi,1992-02-17,26,17,0,Al-Ahli,1,https://en.wikipedia.org/wiki/Motaz_Hawsawi,"Jeddah, Saudi Arabia",39.19250479999999,21.485811000000002
+Uruguay,A,1,GK,Fernando Muslera,1986-06-16,31,96,0,Galatasaray,1,https://en.wikipedia.org/wiki/Fernando_Muslera,"Buenos Aires, Argentina",-58.3815591,-34.6036844
+Uruguay,A,2,DF,José Giménez,1995-01-20,23,41,4,Atlético Madrid,1,https://en.wikipedia.org/wiki/Jos%C3%A9_Gim%C3%A9nez,"Toledo, Uruguay",-56.0863325,-34.7406825
+Uruguay,A,3,DF,Diego Godín ,1986-02-16,32,115,8,Atlético Madrid,1,https://en.wikipedia.org/wiki/Diego_God%C3%ADn,"Rosario, Uruguay",-57.3552999,-34.3215988
+Uruguay,A,4,DF,Guillermo Varela,1993-03-24,25,3,0,Peñarol,1,https://en.wikipedia.org/wiki/Guillermo_Varela,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Uruguay,A,5,MF,Carlos Sánchez,1984-12-02,33,35,1,Monterrey,1,https://en.wikipedia.org/wiki/Carlos_Andr%C3%A9s_S%C3%A1nchez,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Uruguay,A,6,MF,Rodrigo Bentancur,1997-06-25,20,6,0,Juventus,1,https://en.wikipedia.org/wiki/Rodrigo_Bentancur,"Nueva Helvecia, Uruguay",-57.2310521,-34.3042878
+Uruguay,A,7,MF,Cristian Rodríguez,1985-09-30,32,104,11,Peñarol,1,https://en.wikipedia.org/wiki/Cristian_Rodr%C3%ADguez,"Juan Lacaze, Uruguay",-57.4485845,-34.421323
+Uruguay,A,8,MF,Nahitan Nández,1995-12-28,22,11,0,Boca Juniors,1,https://en.wikipedia.org/wiki/Nahitan_N%C3%A1ndez,"Punta del Este, Uruguay",-54.9281496,-34.9368789
+Uruguay,A,9,FW,Luis Suárez,1987-01-24,31,97,50,Barcelona,1,https://en.wikipedia.org/wiki/Luis_Su%C3%A1rez,"Salto, Uruguay",-57.9600793,-31.3854988
+Uruguay,A,10,FW,Giorgian De Arrascaeta,1994-06-01,24,13,1,Cruzeiro,1,https://en.wikipedia.org/wiki/Giorgian_De_Arrascaeta,"Nuevo Berlín, Uruguay",-58.04700080000001,-32.9809545
+Uruguay,A,11,FW,Cristhian Stuani,1986-10-12,31,40,5,Girona,1,https://en.wikipedia.org/wiki/Cristhian_Stuani,"Tala, Uruguay",-55.7648161,-34.343056
+Uruguay,A,12,GK,Martín Campaña,1989-05-29,29,1,0,Independiente,1,https://en.wikipedia.org/wiki/Mart%C3%ADn_Campa%C3%B1a,"Maldonado, Uruguay",-54.9501708,-34.905408
+Uruguay,A,13,DF,Gastón Silva,1994-03-05,24,17,0,Independiente,1,https://en.wikipedia.org/wiki/Gast%C3%B3n_Silva,"Salto, Uruguay",-57.9600793,-31.3854988
+Uruguay,A,14,MF,Lucas Torreira,1996-02-11,22,2,0,Sampdoria,1,https://en.wikipedia.org/wiki/Lucas_Torreira,"Fray Bentos, Uruguay",-58.2975552,-33.1228052
+Uruguay,A,15,MF,Matías Vecino,1991-08-24,26,21,1,Inter Milan,1,https://en.wikipedia.org/wiki/Mat%C3%ADas_Vecino,"Canelones, Uruguay",-56.2873482,-34.5291043
+Uruguay,A,16,DF,Maxi Pereira,1984-06-08,33,124,3,Porto,1,https://en.wikipedia.org/wiki/Maxi_Pereira,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Uruguay,A,17,MF,Diego Laxalt,1993-02-07,25,5,0,Genoa,1,https://en.wikipedia.org/wiki/Diego_Laxalt,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Uruguay,A,18,FW,Maxi Gómez,1996-08-14,21,4,0,Celta Vigo,1,https://en.wikipedia.org/wiki/Maxi_G%C3%B3mez,"Paysandú, Uruguay",-58.08113400000001,-32.2706789
+Uruguay,A,19,DF,Sebastián Coates,1990-10-07,27,30,1,Sporting CP,1,https://en.wikipedia.org/wiki/Sebasti%C3%A1n_Coates,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Uruguay,A,20,FW,Jonathan Urretaviscaya,1990-03-19,28,4,0,Monterrey,1,https://en.wikipedia.org/wiki/Jonathan_Urretaviscaya,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Uruguay,A,21,FW,Edinson Cavani,1987-02-14,31,100,42,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Edinson_Cavani,"Salto, Uruguay",-57.9600793,-31.3854988
+Uruguay,A,22,DF,Martín Cáceres,1987-04-07,31,75,4,Lazio,1,https://en.wikipedia.org/wiki/Mart%C3%ADn_C%C3%A1ceres,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Uruguay,A,23,GK,Martín Silva,1983-03-25,35,11,0,Vasco da Gama,1,https://en.wikipedia.org/wiki/Mart%C3%ADn_Silva,"Montevideo, Uruguay",-56.16453139999999,-34.9011127
+Iran,B,1,GK,Alireza Beiranvand,1992-09-21,25,21,0,Persepolis,1,https://en.wikipedia.org/wiki/Alireza_Beiranvand,"Sarab-e Yas, Khorramabad County, Iran",48.3427034,33.430291
+Iran,B,2,MF,Mehdi Torabi,1994-09-10,23,16,4,Saipa,1,https://en.wikipedia.org/wiki/Mehdi_Torabi,"Eshtehard, Iran",50.3661798,35.7243831
+Iran,B,3,DF,Ehsan Hajsafi,1990-02-25,28,93,6,Olympiacos,1,https://en.wikipedia.org/wiki/Ehsan_Hajsafi,"Kashan, Iran",51.4099625,33.9850358
+Iran,B,4,DF,Rouzbeh Cheshmi,1993-07-24,24,9,1,Esteghlal,1,https://en.wikipedia.org/wiki/Rouzbeh_Cheshmi,"Tehran, Iran",51.3889736,35.6891975
+Iran,B,5,DF,Milad Mohammadi,1993-09-29,24,18,0,Akhmat Grozny,1,https://en.wikipedia.org/wiki/Milad_Mohammadi,"Tehran, Iran",51.3889736,35.6891975
+Iran,B,6,MF,Saeid Ezatolahi,1996-10-01,21,25,1,Amkar Perm,1,https://en.wikipedia.org/wiki/Saeid_Ezatolahi,"Bandar-e Anzali, Iran",49.4798635,37.4639089
+Iran,B,7,MF,Masoud Shojaei ,1984-06-09,33,73,8,AEK Athens,1,https://en.wikipedia.org/wiki/Masoud_Shojaei,"Shiraz, Iran",52.5836982,29.5917677
+Iran,B,8,DF,Morteza Pouraliganji,1992-04-19,26,26,2,Al-Sadd,1,https://en.wikipedia.org/wiki/Morteza_Pouraliganji,"Babol, Iran",52.6764543,36.5386629
+Iran,B,9,MF,Omid Ebrahimi,1987-09-16,30,29,0,Esteghlal,1,https://en.wikipedia.org/wiki/Omid_Ebrahimi,"Neka, Iran",53.2988862,36.6483043
+Iran,B,10,FW,Karim Ansarifard,1990-04-03,28,63,16,Olympiacos,1,https://en.wikipedia.org/wiki/Karim_Ansarifard,"Ardabil, Iran",48.2999901,38.2537363
+Iran,B,11,MF,Vahid Amiri,1988-04-02,30,35,1,Persepolis,1,https://en.wikipedia.org/wiki/Vahid_Amiri,"Darreh-ye Badam, Iran",53.688046,32.427908
+Iran,B,12,GK,Mohammad Rashid Mazaheri,1989-05-18,29,3,0,Zob Ahan Esfahan,1,https://en.wikipedia.org/wiki/Mohammad_Rashid_Mazaheri,"Gachsaran, Iran",50.79363009999999,30.3659761
+Iran,B,13,DF,Mohammad Reza Khanzadeh,1991-05-11,27,11,1,Padideh,1,https://en.wikipedia.org/wiki/Mohammad_Reza_Khanzadeh,"Tehran, Iran",51.3889736,35.6891975
+Iran,B,14,FW,Saman Ghoddos,1993-09-06,24,7,1,Östersund,1,https://en.wikipedia.org/wiki/Saman_Ghoddos,"Malmö, Sweden",13.003822,55.604981
+Iran,B,15,DF,Pejman Montazeri,1983-09-06,34,46,1,Esteghlal,1,https://en.wikipedia.org/wiki/Pejman_Montazeri,"Ahvaz, Iran",48.6706187,31.3183272
+Iran,B,16,FW,Reza Ghoochannejhad,1987-09-20,30,42,17,Heerenveen,1,https://en.wikipedia.org/wiki/Reza_Ghoochannejhad,"Mashhad, Iran",59.6167549,36.2604623
+Iran,B,17,FW,Mehdi Taremi,1992-07-18,25,25,11,Al-Gharafa,1,https://en.wikipedia.org/wiki/Mehdi_Taremi,"Bushehr, Iran",50.820314,28.9233837
+Iran,B,18,FW,Alireza Jahanbakhsh,1993-08-11,24,37,4,AZ,1,https://en.wikipedia.org/wiki/Alireza_Jahanbakhsh,"Jirandeh, Gilan, Iran",49.7882142,36.7035703
+Iran,B,19,DF,Majid Hosseini,1996-06-20,21,1,0,Esteghlal,1,https://en.wikipedia.org/wiki/Majid_Hosseini,"Karaj, Iran",50.9390906,35.8400188
+Iran,B,20,FW,Sardar Azmoun,1995-01-01,23,32,23,Rubin Kazan,1,https://en.wikipedia.org/wiki/Sardar_Azmoun,"Gonbad-e Kavus, Iran",55.1596592,37.24066759999999
+Iran,B,21,FW,Ashkan Dejagah,1986-07-05,31,45,9,Nottingham Forest,1,https://en.wikipedia.org/wiki/Ashkan_Dejagah,"Tehran, Iran",51.3889736,35.6891975
+Iran,B,22,GK,Amir Abedzadeh,1993-04-26,25,1,0,Marítimo,1,https://en.wikipedia.org/wiki/Amir_Abedzadeh,"Tehran, Iran",51.3889736,35.6891975
+Iran,B,23,DF,Ramin Rezaeian,1990-03-21,28,27,2,Oostende,1,https://en.wikipedia.org/wiki/Ramin_Rezaeian,"Sari, Iran",53.0586328,36.5658729
+Morocco,B,1,GK,Yassine Bounou,1991-04-05,27,11,0,Girona,1,https://en.wikipedia.org/wiki/Yassine_Bounou,"Montreal, Canada",-73.567256,45.5016889
+Morocco,B,2,DF,Achraf Hakimi,1998-11-04,19,9,1,Real Madrid,1,https://en.wikipedia.org/wiki/Achraf_Hakimi,"Madrid, Spain",-3.7037902,40.4167754
+Morocco,B,3,DF,Hamza Mendyl,1997-10-21,20,13,0,Lille,1,https://en.wikipedia.org/wiki/Hamza_Mendyl,"Casablanca, Morocco",-7.589843399999999,33.5731104
+Morocco,B,4,DF,Manuel da Costa,1986-05-06,32,27,1,İstanbul Başakşehir,1,https://en.wikipedia.org/wiki/Manuel_da_Costa_(footballer),"Saint-Max, France",6.206419899999999,48.705512
+Morocco,B,5,DF,Medhi Benatia ,1987-04-17,31,56,2,Juventus,1,https://en.wikipedia.org/wiki/Medhi_Benatia,"Courcouronnes, France",2.407091,48.617871
+Morocco,B,6,DF,Romain Saïss,1990-03-26,28,23,1,Wolverhampton Wanderers,1,https://en.wikipedia.org/wiki/Romain_Sa%C3%AFss,"Bourg-de-Péage, France",5.050948,45.040419
+Morocco,B,7,MF,Hakim Ziyech,1993-03-19,25,17,8,Ajax,1,https://en.wikipedia.org/wiki/Hakim_Ziyech,"Dronten, Netherlands",5.7218086,52.5346819
+Morocco,B,8,MF,Karim El Ahmadi,1985-01-27,33,50,1,Feyenoord,1,https://en.wikipedia.org/wiki/Karim_El_Ahmadi,"Enschede, Netherlands",6.8936619,52.2215372
+Morocco,B,9,FW,Ayoub El Kaabi,1993-06-25,24,9,11,RS Berkane,1,https://en.wikipedia.org/wiki/Ayoub_El_Kaabi,"Casablanca, Morocco",-7.589843399999999,33.5731104
+Morocco,B,10,MF,Younès Belhanda,1990-02-25,28,46,4,Galatasaray,1,https://en.wikipedia.org/wiki/Youn%C3%A8s_Belhanda,"Avignon, France",4.805528,43.94931700000001
+Morocco,B,11,MF,Fayçal Fajr,1988-08-01,29,23,2,Getafe,1,https://en.wikipedia.org/wiki/Fay%C3%A7al_Fajr,"Rouen, France",1.099971,49.44323199999999
+Morocco,B,12,GK,Munir Mohamedi,1989-05-10,29,26,0,Numancia,1,https://en.wikipedia.org/wiki/Munir_Mohand_Mohamedi,"Melilla, Spain",-2.9380973,35.2922775
+Morocco,B,13,FW,Khalid Boutaïb,1987-04-24,31,17,7,Yeni Malatyaspor,1,https://en.wikipedia.org/wiki/Khalid_Bouta%C3%AFb,"Bagnols-sur-Cèze, France",4.620075,44.16252
+Morocco,B,14,MF,Mbark Boussoufa,1984-08-15,33,58,7,Al-Jazira,1,https://en.wikipedia.org/wiki/Mbark_Boussoufa,"Amsterdam, Netherlands",4.895167900000001,52.3702157
+Morocco,B,15,MF,Youssef Aït Bennasser,1996-07-07,21,13,0,Caen,1,https://en.wikipedia.org/wiki/Youssef_A%C3%AFt_Bennasser,"Toul, France",5.890159,48.678296
+Morocco,B,16,MF,Nordin Amrabat,1987-03-31,31,43,4,Leganés,1,https://en.wikipedia.org/wiki/Nordin_Amrabat,"Naarden, Netherlands",5.160423799999999,52.2952549
+Morocco,B,17,DF,Nabil Dirar,1986-02-25,32,34,3,Fenerbahçe,1,https://en.wikipedia.org/wiki/Nabil_Dirar,"Casablanca, Morocco",-7.589843399999999,33.5731104
+Morocco,B,18,MF,Amine Harit,1997-06-18,20,5,0,Schalke 04,1,https://en.wikipedia.org/wiki/Amine_Harit,"Pontoise, France",2.100645,49.050966
+Morocco,B,19,FW,Youssef En-Nesyri,1997-06-01,21,15,1,Málaga,1,https://en.wikipedia.org/wiki/Youssef_En-Nesyri,"Fez, Morocco",-5.0078451,34.0181246
+Morocco,B,20,FW,Aziz Bouhaddouz,1987-03-30,31,14,3,FC St. Pauli,1,https://en.wikipedia.org/wiki/Aziz_Bouhaddouz,"Berkane, Morocco",-2.3123031,34.9177281
+Morocco,B,21,MF,Sofyan Amrabat,1996-08-21,21,5,0,Feyenoord,1,https://en.wikipedia.org/wiki/Sofyan_Amrabat,"Huizen, Netherlands",5.2433925,52.2994652
+Morocco,B,22,GK,Ahmed Reda Tagnaouti,1996-04-05,22,2,0,IR Tanger,1,https://en.wikipedia.org/wiki/Ahmed_Reda_Tagnaouti,"Casablanca, Morocco",-7.589843399999999,33.5731104
+Morocco,B,23,MF,Mehdi Carcela,1989-07-01,28,20,1,Standard Liège,1,https://en.wikipedia.org/wiki/Mehdi_Carcela,"Liège, Belgium",5.5796662,50.6325574
+Portugal,B,1,GK,Rui Patrício,1988-02-15,30,68,0,Sporting CP,1,https://en.wikipedia.org/wiki/Rui_Patr%C3%ADcio,"Marrazes, Portugal",-8.805053899999999,39.763454
+Portugal,B,2,DF,Bruno Alves,1981-11-27,36,95,11,Rangers,1,https://en.wikipedia.org/wiki/Bruno_Alves,"Póvoa de Varzim, Portugal",-8.7609294,41.3803685
+Portugal,B,3,DF,Pepe,1983-02-26,35,94,5,Beşiktaş,1,"https://en.wikipedia.org/wiki/Pepe_(footballer,_born_1983)","Maceió, Brazil",-35.7089492,-9.6498487
+Portugal,B,4,MF,Manuel Fernandes,1986-02-05,32,14,3,Lokomotiv Moscow,1,"https://en.wikipedia.org/wiki/Manuel_Fernandes_(footballer,_born_1986)","Lisbon, Portugal",-9.1393366,38.7222524
+Portugal,B,5,DF,Raphaël Guerreiro,1993-12-22,24,23,2,Borussia Dortmund,1,https://en.wikipedia.org/wiki/Rapha%C3%ABl_Guerreiro,"Le Blanc-Mesnil, France",2.46436,48.941345
+Portugal,B,6,DF,José Fonte,1983-12-22,34,30,0,Dalian Yifang,1,https://en.wikipedia.org/wiki/Jos%C3%A9_Fonte,"Penafiel, Portugal",-8.2896845,41.2053186
+Portugal,B,7,FW,Cristiano Ronaldo ,1985-02-05,33,149,81,Real Madrid,1,https://en.wikipedia.org/wiki/Cristiano_Ronaldo,"Funchal, Madeira, Portugal",-16.9240554,32.6669328
+Portugal,B,8,MF,João Moutinho,1986-09-08,31,109,7,Monaco,1,https://en.wikipedia.org/wiki/Jo%C3%A3o_Moutinho,"Portimão, Portugal",-8.5376926,37.13617
+Portugal,B,9,FW,André Silva,1995-11-06,22,22,12,Milan,1,"https://en.wikipedia.org/wiki/Andr%C3%A9_Silva_(footballer,_born_1995)","Baguim do Monte, Portugal",-8.541168400000002,41.1918929
+Portugal,B,10,MF,João Mário,1993-01-19,25,35,2,West Ham United,1,https://en.wikipedia.org/wiki/Jo%C3%A3o_M%C3%A1rio_(Portuguese_footballer),"Porto, Portugal",-8.629105299999999,41.1579438
+Portugal,B,11,MF,Bernardo Silva,1994-08-10,23,24,2,Manchester City,1,https://en.wikipedia.org/wiki/Bernardo_Silva,"Lisbon, Portugal",-9.1393366,38.7222524
+Portugal,B,12,GK,Anthony Lopes,1990-10-01,27,7,0,Lyon,1,https://en.wikipedia.org/wiki/Anthony_Lopes,"Givors, France",4.772829,45.58329
+Portugal,B,13,DF,Rúben Dias,1997-05-14,21,1,0,Benfica,1,https://en.wikipedia.org/wiki/R%C3%BAben_Dias,"Amadora, Portugal",-9.224547399999999,38.7577603
+Portugal,B,14,MF,William Carvalho,1992-04-07,26,42,2,Sporting CP,1,https://en.wikipedia.org/wiki/William_Carvalho,"Luanda, Angola",13.2894368,-8.839987599999999
+Portugal,B,15,DF,Ricardo Pereira,1993-10-06,24,4,0,Porto,1,https://en.wikipedia.org/wiki/Ricardo_Pereira_(footballer),"Lisbon, Portugal",-9.1393366,38.7222524
+Portugal,B,16,MF,Bruno Fernandes,1994-09-08,23,5,0,Sporting CP,1,"https://en.wikipedia.org/wiki/Bruno_Fernandes_(footballer,_born_1994)","Maia, Portugal",-8.621049,41.2278891
+Portugal,B,17,FW,Gonçalo Guedes,1996-11-29,21,9,1,Valencia,1,https://en.wikipedia.org/wiki/Gon%C3%A7alo_Guedes,"Benavente, Portugal",-8.8095801,38.9816876
+Portugal,B,18,FW,Gelson Martins,1995-05-11,23,18,0,Sporting CP,1,https://en.wikipedia.org/wiki/Gelson_Martins,"Praia, Cape Verde",-23.5133267,14.93305
+Portugal,B,19,DF,Mário Rui,1991-05-27,27,3,0,Napoli,1,https://en.wikipedia.org/wiki/M%C3%A1rio_Rui,"Sines, Portugal",-8.860890699999999,37.9571555
+Portugal,B,20,FW,Ricardo Quaresma,1983-09-26,34,76,9,Beşiktaş,1,https://en.wikipedia.org/wiki/Ricardo_Quaresma,"Lisbon, Portugal",-9.1393366,38.7222524
+Portugal,B,21,DF,Cédric,1991-08-31,26,28,1,Southampton,1,https://en.wikipedia.org/wiki/C%C3%A9dric_Soares,"Singen, Germany",8.8722387,47.7670971
+Portugal,B,22,GK,Beto,1982-05-01,36,14,0,Göztepe,1,"https://en.wikipedia.org/wiki/Beto_(footballer,_born_1982)","Lisbon, Portugal",-9.1393366,38.7222524
+Portugal,B,23,MF,Adrien Silva,1989-03-15,29,22,1,Leicester City,1,https://en.wikipedia.org/wiki/Adrien_Silva,"Angoulême, France",0.1562369,45.648377
+Spain,B,1,GK,David de Gea,1990-11-07,27,28,0,Manchester United,1,https://en.wikipedia.org/wiki/David_de_Gea,"Madrid, Spain",-3.7037902,40.4167754
+Spain,B,2,DF,Dani Carvajal,1992-01-11,26,15,0,Real Madrid,1,https://en.wikipedia.org/wiki/Dani_Carvajal,"Leganés, Spain",-3.7686545,40.3319506
+Spain,B,3,DF,Gerard Piqué,1987-02-02,31,97,5,Barcelona,1,https://en.wikipedia.org/wiki/Gerard_Piqu%C3%A9,"Barcelona, Spain",2.1734035,41.3850639
+Spain,B,4,DF,Nacho,1990-01-18,28,16,0,Real Madrid,1,"https://en.wikipedia.org/wiki/Nacho_(footballer,_born_1990)","Madrid, Spain",-3.7037902,40.4167754
+Spain,B,5,MF,Sergio Busquets,1988-07-16,29,102,2,Barcelona,1,https://en.wikipedia.org/wiki/Sergio_Busquets,"Sabadell, Spain",2.1086131,41.5462745
+Spain,B,6,MF,Andrés Iniesta,1984-05-11,34,126,14,Barcelona,1,https://en.wikipedia.org/wiki/Andr%C3%A9s_Iniesta,"Fuentealbilla, Spain",-1.5511323,39.2675127
+Spain,B,7,MF,Saúl,1994-11-21,23,10,0,Atlético Madrid,1,https://en.wikipedia.org/wiki/Sa%C3%BAl_%C3%91%C3%ADguez,"Elche, Spain",-0.7125608,38.2699329
+Spain,B,8,MF,Koke,1992-01-08,26,39,0,Atlético Madrid,1,"https://en.wikipedia.org/wiki/Koke_(footballer,_born_1992)","Madrid, Spain",-3.7037902,40.4167754
+Spain,B,9,FW,Rodrigo,1991-03-06,27,5,2,Valencia,1,"https://en.wikipedia.org/wiki/Rodrigo_(footballer,_born_1991)","Rio de Janeiro, Brazil",-43.1728965,-22.9068467
+Spain,B,10,MF,Thiago,1991-04-11,27,28,2,Bayern Munich,1,https://en.wikipedia.org/wiki/Thiago_Alc%C3%A2ntara,"San Pietro Vernotico, Italy",17.9967285,40.4875119
+Spain,B,11,FW,Lucas Vázquez,1991-07-01,26,6,0,Real Madrid,1,https://en.wikipedia.org/wiki/Lucas_V%C3%A1zquez,"Curtis, Spain",-8.14653,43.1238014
+Spain,B,12,DF,Álvaro Odriozola,1995-12-14,22,3,1,Real Sociedad,1,https://en.wikipedia.org/wiki/%C3%81lvaro_Odriozola,"San Sebastián, Spain",-1.9812313,43.318334
+Spain,B,13,GK,Kepa Arrizabalaga,1994-10-03,23,1,0,Athletic Bilbao,1,https://en.wikipedia.org/wiki/Kepa_Arrizabalaga,"Ondarroa, Spain",-2.4251947,43.3213386
+Spain,B,14,DF,César Azpilicueta,1989-08-28,28,22,0,Chelsea,1,https://en.wikipedia.org/wiki/C%C3%A9sar_Azpilicueta,"Pamplona, Spain",-1.6457745,42.812526
+Spain,B,15,DF,Sergio Ramos ,1986-03-30,32,151,13,Real Madrid,1,https://en.wikipedia.org/wiki/Sergio_Ramos,"Camas, Spain",-6.0321884,37.401173
+Spain,B,16,DF,Nacho Monreal,1986-02-26,32,22,1,Arsenal,1,https://en.wikipedia.org/wiki/Nacho_Monreal,"Pamplona, Spain",-1.6457745,42.812526
+Spain,B,17,FW,Iago Aspas,1987-08-01,30,9,4,Celta Vigo,1,https://en.wikipedia.org/wiki/Iago_Aspas,"Moaña, Spain",-8.715083100000001,42.3077373
+Spain,B,18,DF,Jordi Alba,1989-03-21,29,61,8,Barcelona,1,https://en.wikipedia.org/wiki/Jordi_Alba,"L'Hospitalet, Spain",2.1164942,41.3661865
+Spain,B,19,FW,Diego Costa,1988-10-07,29,19,7,Atlético Madrid,1,https://en.wikipedia.org/wiki/Diego_Costa,"Lagarto, Brazil",-37.6734334,-10.9195816
+Spain,B,20,MF,Marco Asensio,1996-01-21,22,11,0,Real Madrid,1,https://en.wikipedia.org/wiki/Marco_Asensio,"Palma, Spain",2.6501603,39.5696005
+Spain,B,21,FW,David Silva,1986-01-08,32,120,35,Manchester City,1,https://en.wikipedia.org/wiki/David_Silva,"Arguineguín, Spain",-15.6833181,27.7619672
+Spain,B,22,MF,Isco,1992-04-21,26,27,10,Real Madrid,1,https://en.wikipedia.org/wiki/Isco,"Benalmádena, Spain",-4.5168056,36.5987966
+Spain,B,23,GK,Pepe Reina,1982-08-31,35,36,0,Napoli,1,https://en.wikipedia.org/wiki/Pepe_Reina,"Madrid, Spain",-3.7037902,40.4167754
+Australia,C,1,GK,Mathew Ryan,1992-04-08,26,43,0,Brighton & Hove Albion,1,https://en.wikipedia.org/wiki/Mathew_Ryan,"Plumpton, New South Wales, Australia",150.8392,-33.7531
+Australia,C,2,DF,Milos Degenek,1994-04-28,24,18,0,Yokohama F. Marinos,1,https://en.wikipedia.org/wiki/Milos_Degenek,"Knin, Croatia",16.1964988,44.0407757
+Australia,C,3,DF,James Meredith,1988-04-05,30,2,0,Millwall,1,https://en.wikipedia.org/wiki/James_Meredith_(footballer),"Albury, Australia",146.9135418,-36.0737293
+Australia,C,4,FW,Tim Cahill,1979-12-06,38,105,50,Millwall,1,https://en.wikipedia.org/wiki/Tim_Cahill,"Sydney, Australia",151.2092955,-33.8688197
+Australia,C,5,DF,Mark Milligan,1985-08-04,32,70,6,Al-Ahli,1,https://en.wikipedia.org/wiki/Mark_Milligan,"Sydney, New South Wales, Australia",151.2092955,-33.8688197
+Australia,C,6,DF,Matthew Jurman,1989-12-08,28,4,0,Suwon Samsung Bluewings,1,https://en.wikipedia.org/wiki/Matthew_Jurman,"Wollongong, New South Wales, Australia",150.8930607,-34.4278121
+Australia,C,7,FW,Mathew Leckie,1991-02-04,27,52,8,Hertha BSC,1,https://en.wikipedia.org/wiki/Mathew_Leckie,"Melbourne, Victoria, Australia",144.9630576,-37.8136276
+Australia,C,8,MF,Massimo Luongo,1992-09-25,25,35,5,Queens Park Rangers,1,https://en.wikipedia.org/wiki/Massimo_Luongo,"Sydney, New South Wales, Australia",151.2092955,-33.8688197
+Australia,C,9,FW,Tomi Juric,1991-07-22,26,34,8,Luzern,1,https://en.wikipedia.org/wiki/Tomi_Juric,"Sydney, New South Wales, Australia",151.2092955,-33.8688197
+Australia,C,10,FW,Robbie Kruse,1988-10-05,29,63,5,VfL Bochum,1,https://en.wikipedia.org/wiki/Robbie_Kruse,"Brisbane, Queensland, Australia",153.0251235,-27.4697707
+Australia,C,11,FW,Andrew Nabbout,1992-12-17,25,3,1,Urawa Red Diamonds,1,https://en.wikipedia.org/wiki/Andrew_Nabbout,"Melbourne, Australia",144.9630576,-37.8136276
+Australia,C,12,GK,Brad Jones,1982-03-19,36,5,0,Feyenoord,1,https://en.wikipedia.org/wiki/Brad_Jones_(footballer),"Armadale, Perth, Australia",116.015,-32.153
+Australia,C,13,MF,Aaron Mooy,1990-09-15,27,33,5,Huddersfield Town,1,https://en.wikipedia.org/wiki/Aaron_Mooy,"Sydney, Australia",151.2092955,-33.8688197
+Australia,C,14,FW,Jamie Maclaren,1993-07-29,24,6,0,Hibernian,1,https://en.wikipedia.org/wiki/Jamie_Maclaren,"Sunbury, Australia",144.713889,-37.581111
+Australia,C,15,MF,Mile Jedinak ,1984-08-03,33,75,18,Aston Villa,1,https://en.wikipedia.org/wiki/Mile_Jedinak,"Camperdown, New South Wales, Australia",151.17988,-33.89013
+Australia,C,16,DF,Aziz Behich,1990-12-16,27,22,2,Bursaspor,1,https://en.wikipedia.org/wiki/Aziz_Behich,"Melbourne, Victoria, Australia",144.9630576,-37.8136276
+Australia,C,17,FW,Daniel Arzani,1999-01-04,19,1,0,Melbourne City,1,https://en.wikipedia.org/wiki/Daniel_Arzani,"Khorramabad, Iran",48.33896439999999,33.4646833
+Australia,C,18,GK,Danny Vukovic,1985-03-27,33,1,0,Genk,1,https://en.wikipedia.org/wiki/Danny_Vukovic,"Sydney, New South Wales, Australia",151.2092955,-33.8688197
+Australia,C,19,DF,Josh Risdon,1992-07-27,25,7,0,Western Sydney Wanderers,1,https://en.wikipedia.org/wiki/Josh_Risdon,"Bunbury, Australia",115.6396494,-33.325636
+Australia,C,20,DF,Trent Sainsbury,1992-01-05,26,34,3,Grasshoppers,1,https://en.wikipedia.org/wiki/Trent_Sainsbury,"Thornlie, Western Australia, Australia",115.958,-32.058
+Australia,C,21,FW,Dimitri Petratos,1992-11-10,25,2,0,Newcastle Jets,1,https://en.wikipedia.org/wiki/Dimitri_Petratos,"Sydney, New South Wales, Australia",151.2092955,-33.8688197
+Australia,C,22,MF,Jackson Irvine,1993-03-07,25,18,2,Hull City,1,https://en.wikipedia.org/wiki/Jackson_Irvine,"Melbourne, Australia",144.9630576,-37.8136276
+Australia,C,23,MF,Tom Rogic,1992-12-16,25,36,7,Celtic,1,https://en.wikipedia.org/wiki/Tom_Rogic,"Griffith, ACT, Australia",149.137222,-35.32472200000001
+Denmark,C,1,GK,Kasper Schmeichel,1986-11-05,31,34,0,Leicester City,1,https://en.wikipedia.org/wiki/Kasper_Schmeichel,"Copenhagen, Denmark",12.5683372,55.6760968
+Denmark,C,2,MF,Michael Krohn-Dehli,1983-06-06,34,58,6,Deportivo La Coruña,1,https://en.wikipedia.org/wiki/Michael_Krohn-Dehli,"Copenhagen, Denmark",12.5683372,55.6760968
+Denmark,C,3,DF,Jannik Vestergaard,1992-08-03,25,16,1,Borussia Mönchengladbach,1,https://en.wikipedia.org/wiki/Jannik_Vestergaard,"Hvidovre, Denmark",12.4753859,55.64252200000001
+Denmark,C,4,DF,Simon Kjær ,1989-03-26,29,77,3,Sevilla,1,https://en.wikipedia.org/wiki/Simon_Kj%C3%A6r,"Horsens, Denmark",9.8475881,55.8581302
+Denmark,C,5,DF,Jonas Knudsen,1992-09-16,25,3,0,Ipswich Town,1,https://en.wikipedia.org/wiki/Jonas_Knudsen,"Esbjerg, Denmark",8.459405,55.476466
+Denmark,C,6,DF,Andreas Christensen,1996-04-10,22,15,1,Chelsea,1,https://en.wikipedia.org/wiki/Andreas_Christensen,"Lillerød, Denmark",12.3429773,55.8684723
+Denmark,C,7,MF,William Kvist,1985-02-24,33,79,2,Copenhagen,1,https://en.wikipedia.org/wiki/William_Kvist,"Odder, Denmark",10.149958,55.975718
+Denmark,C,8,MF,Thomas Delaney,1991-09-03,26,26,4,Werder Bremen,1,https://en.wikipedia.org/wiki/Thomas_Delaney,"Frederiksberg, Denmark",12.513321,55.677069
+Denmark,C,9,FW,Nicolai Jørgensen,1991-01-15,27,30,8,Feyenoord,1,https://en.wikipedia.org/wiki/Nicolai_J%C3%B8rgensen,"Ballerup, Denmark",12.354765,55.724508
+Denmark,C,10,MF,Christian Eriksen,1992-02-14,26,77,21,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Christian_Eriksen,"Middelfart, Denmark",9.747171999999999,55.497204
+Denmark,C,11,FW,Martin Braithwaite,1991-06-05,27,19,1,Bordeaux,1,https://en.wikipedia.org/wiki/Martin_Braithwaite,"Esbjerg, Denmark",8.459405,55.476466
+Denmark,C,12,FW,Kasper Dolberg,1997-10-06,20,5,1,Ajax,1,https://en.wikipedia.org/wiki/Kasper_Dolberg,"Silkeborg, Denmark",9.5549217,56.176362
+Denmark,C,13,DF,Mathias Jørgensen,1990-04-23,28,12,0,Huddersfield Town,1,https://en.wikipedia.org/wiki/Mathias_J%C3%B8rgensen,"Copenhagen, Denmark",12.5683372,55.6760968
+Denmark,C,14,DF,Henrik Dalsgaard,1989-07-27,28,10,0,Brentford,1,https://en.wikipedia.org/wiki/Henrik_Dalsgaard,"Roum, Denmark",9.553447,56.606308
+Denmark,C,15,FW,Viktor Fischer,1994-06-09,23,18,3,Copenhagen,1,https://en.wikipedia.org/wiki/Viktor_Fischer,"Aarhus, Denmark",10.203921,56.162939
+Denmark,C,16,GK,Jonas Lössl,1989-02-01,29,1,0,Huddersfield Town,1,https://en.wikipedia.org/wiki/Jonas_L%C3%B6ssl,"Kolding, Denmark",9.4730519,55.495973
+Denmark,C,17,DF,Jens Stryger Larsen,1991-02-21,27,12,1,Udinese,1,https://en.wikipedia.org/wiki/Jens_Stryger_Larsen,"Sakskøbing, Denmark",11.631226,54.798236
+Denmark,C,18,MF,Lukas Lerager,1993-07-12,24,3,0,Bordeaux,1,https://en.wikipedia.org/wiki/Lukas_Lerager,"Gladsaxe, Denmark",12.4747962,55.7427646
+Denmark,C,19,MF,Lasse Schöne,1986-05-27,32,35,3,Ajax,1,https://en.wikipedia.org/wiki/Lasse_Sch%C3%B6ne,"Glostrup, Denmark",12.402144,55.669217
+Denmark,C,20,FW,Yussuf Poulsen,1994-06-15,23,27,3,RB Leipzig,1,https://en.wikipedia.org/wiki/Yussuf_Poulsen,"Copenhagen, Denmark",12.5683372,55.6760968
+Denmark,C,21,FW,Andreas Cornelius,1993-03-16,25,18,4,Atalanta,1,https://en.wikipedia.org/wiki/Andreas_Cornelius,"Copenhagen, Denmark",12.5683372,55.6760968
+Denmark,C,22,GK,Frederik Rønnow,1992-08-04,25,6,0,Brøndby,1,https://en.wikipedia.org/wiki/Frederik_R%C3%B8nnow,"Horsens, Denmark",9.8475881,55.8581302
+Denmark,C,23,FW,Pione Sisto,1995-02-04,23,13,1,Celta Vigo,1,https://en.wikipedia.org/wiki/Pione_Sisto,"Kampala, Uganda",32.5825197,0.3475964
+France,C,1,GK,Hugo Lloris ,1986-12-26,31,97,0,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Hugo_Lloris,"Nice, France",7.261953200000001,43.7101728
+France,C,2,DF,Benjamin Pavard,1996-03-28,22,5,0,VfB Stuttgart,1,https://en.wikipedia.org/wiki/Benjamin_Pavard,"Maubeuge, France",3.9674,50.280228
+France,C,3,DF,Presnel Kimpembe,1995-08-13,22,2,0,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Presnel_Kimpembe,"Beaumont-sur-Oise, France",2.284601,49.14155100000001
+France,C,4,DF,Raphaël Varane,1993-04-25,25,41,2,Real Madrid,1,https://en.wikipedia.org/wiki/Rapha%C3%ABl_Varane,"Lille, France",3.057256,50.62925
+France,C,5,DF,Samuel Umtiti,1993-11-14,24,18,2,Barcelona,1,https://en.wikipedia.org/wiki/Samuel_Umtiti,"Yaoundé, Cameroon",11.5020752,3.8480325
+France,C,6,MF,Paul Pogba,1993-03-15,25,53,9,Manchester United,1,https://en.wikipedia.org/wiki/Paul_Pogba,"Lagny-sur-Marne, France",2.713016,48.87296
+France,C,7,FW,Antoine Griezmann,1991-03-21,27,53,20,Atlético Madrid,1,https://en.wikipedia.org/wiki/Antoine_Griezmann,"Mâcon, France",4.828730999999999,46.3068839
+France,C,8,FW,Thomas Lemar,1995-11-12,22,11,3,Monaco,1,https://en.wikipedia.org/wiki/Thomas_Lemar,"Baie-Mahault, Guadeloupe",-61.571718,16.2444738
+France,C,9,FW,Olivier Giroud,1986-09-30,31,73,31,Chelsea,1,https://en.wikipedia.org/wiki/Olivier_Giroud,"Chambéry, France",5.917781,45.564601
+France,C,10,FW,Kylian Mbappé,1998-12-20,19,14,3,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Kylian_Mbapp%C3%A9,"Paris, France",2.3522219,48.856614
+France,C,11,FW,Ousmane Dembélé,1997-05-15,21,11,2,Barcelona,1,https://en.wikipedia.org/wiki/Ousmane_Demb%C3%A9l%C3%A9,"Vernon, France",1.488107,49.091958
+France,C,12,MF,Corentin Tolisso,1994-08-03,23,8,0,Bayern Munich,1,https://en.wikipedia.org/wiki/Corentin_Tolisso,"Tarare, France",4.433425,45.89676
+France,C,13,MF,N'Golo Kanté,1991-03-29,27,23,1,Chelsea,1,https://en.wikipedia.org/wiki/N%27Golo_Kant%C3%A9,"Paris, France",2.3522219,48.856614
+France,C,14,MF,Blaise Matuidi,1987-04-09,31,66,9,Juventus,1,https://en.wikipedia.org/wiki/Blaise_Matuidi,"Toulouse, France",1.444209,43.604652
+France,C,15,MF,Steven Nzonzi,1988-12-15,29,4,0,Sevilla,1,https://en.wikipedia.org/wiki/Steven_Nzonzi,"La Garenne-Colombes, France",2.244085,48.906535
+France,C,16,GK,Steve Mandanda,1985-03-28,33,27,0,Marseille,1,https://en.wikipedia.org/wiki/Steve_Mandanda,"Kinshasa, Zaire",15.2662931,-4.4419311
+France,C,17,DF,Adil Rami,1985-12-27,32,35,1,Marseille,1,https://en.wikipedia.org/wiki/Adil_Rami,"Bastia, France",9.450880999999999,42.697283
+France,C,18,FW,Nabil Fekir,1993-07-18,24,11,2,Lyon,1,https://en.wikipedia.org/wiki/Nabil_Fekir,"Lyon, France",4.835659,45.764043
+France,C,19,DF,Djibril Sidibé,1992-07-29,25,16,1,Monaco,1,"https://en.wikipedia.org/wiki/Djibril_Sidib%C3%A9_(footballer,_born_1992)","Troyes, France",4.0744009,48.2973451
+France,C,20,FW,Florian Thauvin,1993-01-26,25,4,0,Marseille,1,https://en.wikipedia.org/wiki/Florian_Thauvin,"Orléans, France",1.909251,47.902964
+France,C,21,DF,Lucas Hernández,1996-02-14,22,4,0,Atlético Madrid,1,https://en.wikipedia.org/wiki/Lucas_Hern%C3%A1ndez,"Marseille, France",5.36978,43.296482
+France,C,22,DF,Benjamin Mendy,1994-07-17,23,6,0,Manchester City,1,https://en.wikipedia.org/wiki/Benjamin_Mendy,"Longjumeau, France",2.2947615,48.6930642
+France,C,23,GK,Alphonse Areola,1993-02-27,25,0,0,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Alphonse_Areola,"Paris, France",2.3522219,48.856614
+Peru,C,1,GK,Pedro Gallese,1990-02-23,28,37,0,Veracruz,1,https://en.wikipedia.org/wiki/Pedro_Gallese,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,2,DF,Alberto Rodríguez,1984-03-31,34,58,0,Atlético Junior,1,https://en.wikipedia.org/wiki/Alberto_Junior_Rodr%C3%ADguez,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,3,DF,Aldo Corzo,1989-05-20,29,25,0,Universitario,1,https://en.wikipedia.org/wiki/Aldo_Corzo,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,4,DF,Anderson Santamaría,1992-01-10,26,3,0,Puebla,1,https://en.wikipedia.org/wiki/Anderson_Santamar%C3%ADa,"Tingo María, Peru ,",-75.99785899999999,-9.295763599999999
+Peru,C,5,DF,Miguel Araujo,1994-10-24,23,7,0,Alianza Lima,1,https://en.wikipedia.org/wiki/Miguel_Araujo,"Villa María del Triunfo, Peru",-76.9297354,-12.1590715
+Peru,C,6,DF,Miguel Trauco,1992-08-25,25,26,0,Flamengo,1,https://en.wikipedia.org/wiki/Miguel_Trauco,"Tarapoto, Peru",-76.3726891,-6.4824784
+Peru,C,7,MF,Paolo Hurtado,1990-07-27,27,31,3,Vitória de Guimarães,1,https://en.wikipedia.org/wiki/Paolo_Hurtado,"Callao, Peru",-77.1259843,-12.0508491
+Peru,C,8,MF,Christian Cueva,1991-11-23,26,43,8,São Paulo,1,https://en.wikipedia.org/wiki/Christian_Cueva,"Trujillo, Peru",-79.0215336,-8.1090524
+Peru,C,9,FW,Paolo Guerrero ,1984-01-01,34,87,34,Flamengo,1,https://en.wikipedia.org/wiki/Paolo_Guerrero,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,10,FW,Jefferson Farfán,1984-10-26,33,83,25,Lokomotiv Moscow,1,https://en.wikipedia.org/wiki/Jefferson_Farf%C3%A1n,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,11,FW,Raúl Ruidíaz,1990-07-25,27,30,4,Morelia,1,https://en.wikipedia.org/wiki/Ra%C3%BAl_Ruid%C3%ADaz,"Villa María del Triunfo, Peru",-76.9297354,-12.1590715
+Peru,C,12,GK,Carlos Cáceda,1991-09-27,26,4,0,Deportivo Municipal,1,https://en.wikipedia.org/wiki/Carlos_C%C3%A1ceda,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,13,MF,Renato Tapia,1995-07-28,22,22,1,Feyenoord,1,https://en.wikipedia.org/wiki/Renato_Tapia,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,14,MF,Andy Polo,1994-09-29,23,16,1,Portland Timbers,1,https://en.wikipedia.org/wiki/Andy_Polo,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,15,DF,Christian Ramos,1988-11-04,29,65,3,Veracruz,1,https://en.wikipedia.org/wiki/Christian_Ramos,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,16,MF,Wilder Cartagena,1994-09-23,23,3,0,Veracruz,1,https://en.wikipedia.org/wiki/Wilder_Cartagena,Peru,-75.015152,-9.189967
+Peru,C,17,DF,Luis Advíncula,1990-03-02,28,64,0,Lobos BUAP,1,https://en.wikipedia.org/wiki/Luis_Adv%C3%ADncula,"Chincha, Peru",-76.13671099999999,-13.42553
+Peru,C,18,FW,André Carrillo,1991-06-14,26,44,5,Watford,1,https://en.wikipedia.org/wiki/Andr%C3%A9_Carrillo,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,19,MF,Yoshimar Yotún,1990-04-07,28,72,2,Orlando City,1,https://en.wikipedia.org/wiki/Yoshimar_Yot%C3%BAn,"Callao, Peru",-77.1259843,-12.0508491
+Peru,C,20,FW,Edison Flores,1994-05-14,24,28,9,AaB,1,https://en.wikipedia.org/wiki/Edison_Flores,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,21,GK,José Carvallo,1986-03-01,32,6,0,UTC,1,https://en.wikipedia.org/wiki/Jos%C3%A9_Carvallo,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,22,DF,Nilson Loyola,1994-10-26,23,3,0,Melgar,1,https://en.wikipedia.org/wiki/Nilson_Loyola,"Lima, Peru",-77.042754,-12.0463731
+Peru,C,23,MF,Pedro Aquino,1995-04-13,23,12,0,Lobos BUAP,1,https://en.wikipedia.org/wiki/Pedro_Aquino,"Lima, Peru",-77.042754,-12.0463731
+Argentina,D,1,GK,Nahuel Guzmán,1986-02-10,32,6,0,UANL,1,https://en.wikipedia.org/wiki/Nahuel_Guzm%C3%A1n,"Rosario, Santa Fe, Argentina",-60.65053880000001,-32.9442426
+Argentina,D,2,DF,Gabriel Mercado,1987-03-18,31,20,3,Sevilla,1,https://en.wikipedia.org/wiki/Gabriel_Mercado,"Puerto Madryn, Argentina",-65.0317175,-42.7694476
+Argentina,D,3,DF,Nicolás Tagliafico,1992-08-31,25,4,0,Ajax,1,https://en.wikipedia.org/wiki/Nicol%C3%A1s_Tagliafico,"Buenos Aires, Argentina",-58.3815591,-34.6036844
+Argentina,D,4,DF,Cristian Ansaldi,1986-09-20,31,5,0,Torino,1,https://en.wikipedia.org/wiki/Cristian_Ansaldi,"Rosario, Argentina",-60.65053880000001,-32.9442426
+Argentina,D,5,MF,Lucas Biglia,1986-01-30,32,57,1,Milan,1,https://en.wikipedia.org/wiki/Lucas_Biglia,"Mercedes, Buenos Aires, Argentina",-58.0185646,-33.2604441
+Argentina,D,6,DF,Federico Fazio,1987-03-17,31,9,1,Roma,1,https://en.wikipedia.org/wiki/Federico_Fazio,"Buenos Aires, Argentina",-58.3815591,-34.6036844
+Argentina,D,7,MF,Éver Banega,1988-06-29,29,62,6,Sevilla,1,https://en.wikipedia.org/wiki/%C3%89ver_Banega,"Rosario, Argentina",-60.65053880000001,-32.9442426
+Argentina,D,8,DF,Marcos Acuña,1991-10-28,26,10,0,Sporting CP,1,https://en.wikipedia.org/wiki/Marcos_Acu%C3%B1a,"Zapala, Neuquén, Argentina",-70.0649014,-38.9031623
+Argentina,D,9,FW,Gonzalo Higuaín,1987-12-10,30,71,31,Juventus,1,https://en.wikipedia.org/wiki/Gonzalo_Higua%C3%ADn,"Brest, France",-4.486076,48.390394
+Argentina,D,10,FW,Lionel Messi ,1987-06-24,30,124,64,Barcelona,1,https://en.wikipedia.org/wiki/Lionel_Messi,"Rosario, Argentina",-60.65053880000001,-32.9442426
+Argentina,D,11,MF,Ángel Di María,1988-02-14,30,94,19,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/%C3%81ngel_Di_Mar%C3%ADa,"Rosario, Argentina",-60.65053880000001,-32.9442426
+Argentina,D,12,GK,Franco Armani,1986-10-16,31,0,0,River Plate,1,https://en.wikipedia.org/wiki/Franco_Armani,"Casilda, Santa Fe, Argentina",-61.1650211,-33.044522
+Argentina,D,13,MF,Maximiliano Meza,1992-12-15,25,2,0,Independiente,1,https://en.wikipedia.org/wiki/Maximiliano_Meza,"General Paz, Argentina",-58.4173358,-35.5003318
+Argentina,D,14,DF,Javier Mascherano,1984-06-08,33,143,3,Hebei China Fortune,1,https://en.wikipedia.org/wiki/Javier_Mascherano,"San Lorenzo, Argentina",-60.73567540000001,-32.747416
+Argentina,D,15,MF,Manuel Lanzini,1993-02-15,25,4,1,West Ham United,1,https://en.wikipedia.org/wiki/Enzo_P%C3%A9rez,"Maipú, Argentina",-68.7884399,-32.9846649
+Argentina,D,16,DF,Marcos Rojo,1990-03-20,28,56,2,Manchester United,1,https://en.wikipedia.org/wiki/Marcos_Rojo,"La Plata, Argentina",-57.95356570000001,-34.9204948
+Argentina,D,17,DF,Nicolás Otamendi,1988-02-12,30,54,4,Manchester City,1,https://en.wikipedia.org/wiki/Nicol%C3%A1s_Otamendi,"Buenos Aires, Argentina",-58.3815591,-34.6036844
+Argentina,D,18,DF,Eduardo Salvio,1990-07-13,27,9,0,Benfica,1,https://en.wikipedia.org/wiki/Eduardo_Salvio,"Avellaneda, Argentina",-58.3669739,-34.6610756
+Argentina,D,19,FW,Sergio Agüero,1988-06-02,30,85,37,Manchester City,1,https://en.wikipedia.org/wiki/Sergio_Ag%C3%BCero,"Buenos Aires, Argentina",-58.3815591,-34.6036844
+Argentina,D,20,MF,Giovani Lo Celso,1996-04-09,22,5,0,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Giovani_Lo_Celso,"Rosario, Argentina",-60.65053880000001,-32.9442426
+Argentina,D,21,FW,Paulo Dybala,1993-11-15,24,12,0,Juventus,1,https://en.wikipedia.org/wiki/Paulo_Dybala,"Laguna Larga, Córdoba, Argentina",-63.7998764,-31.7768475
+Argentina,D,22,MF,Cristian Pavón,1996-01-21,22,5,0,Boca Juniors,1,https://en.wikipedia.org/wiki/Cristian_Pav%C3%B3n,"Córdoba, Argentina",-64.1887761,-31.42008329999999
+Argentina,D,23,GK,Willy Caballero,1981-09-28,36,3,0,Chelsea,1,https://en.wikipedia.org/wiki/Willy_Caballero,"Santa Elena, Argentina",-59.78537659999999,-30.9462887
+Croatia,D,1,GK,Dominik Livaković,1995-01-09,23,1,0,Dinamo Zagreb,1,https://en.wikipedia.org/wiki/Dominik_Livakovi%C4%87,"Zadar, Croatia",15.2313648,44.119371
+Croatia,D,2,DF,Šime Vrsaljko,1992-01-10,26,35,0,Atlético Madrid,1,https://en.wikipedia.org/wiki/%C5%A0ime_Vrsaljko,"Rijeka,SFR Yugoslavia",14.442176,45.3270631
+Croatia,D,3,DF,Ivan Strinić,1987-07-17,30,42,0,Sampdoria,1,https://en.wikipedia.org/wiki/Ivan_Strini%C4%87,"Split, SFR Yugoslavia",16.442902,43.508244
+Croatia,D,4,FW,Ivan Perišić,1989-02-02,29,65,17,Inter Milan,1,https://en.wikipedia.org/wiki/Ivan_Peri%C5%A1i%C4%87,"Split, SFR Yugoslavia",16.442902,43.508244
+Croatia,D,5,DF,Vedran Ćorluka,1986-02-05,32,98,4,Lokomotiv Moscow,1,https://en.wikipedia.org/wiki/Vedran_%C4%86orluka,"Derventa, SFR Yugoslavia",17.9070412,44.9764185
+Croatia,D,6,DF,Dejan Lovren,1989-07-05,28,38,2,Liverpool,1,https://en.wikipedia.org/wiki/Dejan_Lovren,"Zenica, SFR Yugoslavia",17.9077431,44.2034392
+Croatia,D,7,MF,Ivan Rakitić,1988-03-10,30,91,14,Barcelona,1,https://en.wikipedia.org/wiki/Ivan_Rakiti%C4%87,"Möhlin, Switzerland",7.8442531,47.5591304
+Croatia,D,8,MF,Mateo Kovačić,1994-05-06,24,40,1,Real Madrid,1,https://en.wikipedia.org/wiki/Mateo_Kova%C4%8Di%C4%87,"Linz, Austria",14.28583,48.30694
+Croatia,D,9,FW,Andrej Kramarić,1991-06-19,26,30,8,1899 Hoffenheim,1,https://en.wikipedia.org/wiki/Andrej_Kramari%C4%87,"Zagreb, Croatia",15.9819189,45.8150108
+Croatia,D,10,MF,Luka Modrić ,1985-09-09,32,105,12,Real Madrid,1,https://en.wikipedia.org/wiki/Luka_Modri%C4%87,"Zadar, SFR Yugoslavia",15.2313648,44.119371
+Croatia,D,11,MF,Marcelo Brozović,1992-11-16,25,34,6,Inter Milan,1,https://en.wikipedia.org/wiki/Marcelo_Brozovi%C4%87,"Zagreb, Croatia",15.9819189,45.8150108
+Croatia,D,12,GK,Lovre Kalinić,1990-04-03,28,10,0,Gent,1,https://en.wikipedia.org/wiki/Lovre_Kalini%C4%87,"Split, SFR Yugoslavia",16.442902,43.508244
+Croatia,D,13,DF,Tin Jedvaj,1995-11-28,22,11,0,Bayer Leverkusen,1,https://en.wikipedia.org/wiki/Tin_Jedvaj,"Zagreb, Croatia",15.9819189,45.8150108
+Croatia,D,14,MF,Filip Bradarić,1992-01-11,26,4,0,Rijeka,1,https://en.wikipedia.org/wiki/Filip_Bradari%C4%87,"Split, Croatia",16.4401935,43.5081323
+Croatia,D,15,DF,Duje Ćaleta-Car,1996-09-17,21,1,0,Red Bull Salzburg,1,https://en.wikipedia.org/wiki/Duje_%C4%86aleta-Car,"Šibenik, Croatia",15.8952045,43.7350196
+Croatia,D,16,FW,Nikola Kalinić,1988-01-05,30,41,15,Milan,1,https://en.wikipedia.org/wiki/Nikola_Kalini%C4%87,"Solin, SFR Yugoslavia",16.4919632,43.5422549
+Croatia,D,17,FW,Mario Mandžukić,1986-05-21,32,82,30,Juventus,1,https://en.wikipedia.org/wiki/Mario_Mand%C5%BEuki%C4%87,"Slavonski Brod, SFR Yugoslavia",18.0116081,45.1631431
+Croatia,D,18,FW,Ante Rebić,1993-09-21,24,15,1,Eintracht Frankfurt,1,https://en.wikipedia.org/wiki/Ante_Rebi%C4%87,"Split, Croatia",16.4401935,43.5081323
+Croatia,D,19,MF,Milan Badelj,1989-02-25,29,37,1,Fiorentina,1,https://en.wikipedia.org/wiki/Milan_Badelj,"Zagreb, SFR Yugoslavia",15.9819189,45.8150108
+Croatia,D,20,FW,Marko Pjaca,1995-05-06,23,16,1,Schalke 04,1,https://en.wikipedia.org/wiki/Marko_Pjaca,"Zagreb, Croatia",15.9819189,45.8150108
+Croatia,D,21,DF,Domagoj Vida,1989-04-29,29,58,2,Beşiktaş,1,https://en.wikipedia.org/wiki/Domagoj_Vida,"Našice, SR Croatia, SFR Yugoslavia",18.0951118,45.4946861
+Croatia,D,22,DF,Josip Pivarić,1989-01-30,29,19,0,Dynamo Kyiv,1,https://en.wikipedia.org/wiki/Josip_Pivari%C4%87,"Zagreb, SFR Yugoslavia",15.9819189,45.8150108
+Croatia,D,23,GK,Danijel Subašić,1984-10-27,33,37,0,Monaco,1,https://en.wikipedia.org/wiki/Danijel_Suba%C5%A1i%C4%87,"Zadar, SFR Yugoslavia",15.2313648,44.119371
+Iceland,D,1,GK,Hannes Þór Halldórsson,1984-04-27,34,48,0,Randers,1,https://en.wikipedia.org/wiki/Hannes_%C3%9E%C3%B3r_Halld%C3%B3rsson,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,2,DF,Birkir Már Sævarsson,1984-11-11,33,79,1,Valur,1,https://en.wikipedia.org/wiki/Birkir_M%C3%A1r_S%C3%A6varsson,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,3,MF,Samúel Friðjónsson,1996-02-22,22,4,0,Vålerenga,1,https://en.wikipedia.org/wiki/Sam%C3%BAel_Fri%C3%B0j%C3%B3nsson,"Reykjanesbaer, Iceland",-22.5582716,63.9997549
+Iceland,D,4,MF,Albert Guðmundsson,1997-06-15,20,5,3,PSV Eindhoven,1,"https://en.wikipedia.org/wiki/Albert_Gu%C3%B0mundsson_(footballer,_born_1997)","Reykjavik, Iceland",-21.8174392,64.12652059999999
+Iceland,D,5,DF,Sverrir Ingi Ingason,1993-08-05,24,19,3,Rostov,1,https://en.wikipedia.org/wiki/Sverrir_Ingi_Ingason,"Kópavogur, Iceland",-21.8832579,64.1033023
+Iceland,D,6,DF,Ragnar Sigurðsson,1986-06-19,31,76,3,Rostov,1,https://en.wikipedia.org/wiki/Ragnar_Sigur%C3%B0sson,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,7,MF,Jóhann Berg Guðmundsson,1990-10-27,27,66,7,Burnley,1,https://en.wikipedia.org/wiki/J%C3%B3hann_Berg_Gu%C3%B0mundsson,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,8,MF,Birkir Bjarnason,1988-05-27,30,66,9,Aston Villa,1,https://en.wikipedia.org/wiki/Birkir_Bjarnason,"Akureyri, Iceland",-18.1261694,65.68849209999999
+Iceland,D,9,FW,Björn Bergmann Sigurðarson,1991-02-26,27,11,1,Rostov,1,https://en.wikipedia.org/wiki/Bj%C3%B6rn_Bergmann_Sigur%C3%B0arson,"Akranes, Iceland",-22.0702847,64.3219244
+Iceland,D,10,MF,Gylfi Sigurðsson,1989-09-08,28,56,19,Everton,1,https://en.wikipedia.org/wiki/Gylfi_Sigur%C3%B0sson,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,11,FW,Alfreð Finnbogason,1989-02-01,29,46,12,FC Augsburg,1,https://en.wikipedia.org/wiki/Alfre%C3%B0_Finnbogason,"Grindavík, Iceland",-22.4383818,63.8441808
+Iceland,D,12,GK,Frederik Schram,1995-01-19,23,4,0,Roskilde,1,https://en.wikipedia.org/wiki/Frederik_Schram,"Dragør, Denmark",12.660503,55.594023
+Iceland,D,13,GK,Rúnar Alex Rúnarsson,1995-02-18,23,3,0,Nordsjælland,1,https://en.wikipedia.org/wiki/R%C3%BAnar_Alex_R%C3%BAnarsson,Iceland,-19.020835,64.963051
+Iceland,D,14,DF,Kári Árnason,1982-10-13,35,66,4,Aberdeen,1,https://en.wikipedia.org/wiki/K%C3%A1ri_%C3%81rnason,"Gothenburg, Sweden",11.97456,57.70887
+Iceland,D,15,DF,Hólmar Örn Eyjólfsson,1990-08-06,27,9,1,Levski Sofia,1,https://en.wikipedia.org/wiki/H%C3%B3lmar_%C3%96rn_Eyj%C3%B3lfsson,"Sauðárkrókur, Iceland",-19.6404746,65.7409444
+Iceland,D,16,MF,Ólafur Ingi Skúlason,1983-04-01,35,35,1,Kardemir Karabükspor,1,https://en.wikipedia.org/wiki/%C3%93lafur_Ingi_Sk%C3%BAlason,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,17,MF,Aron Gunnarsson ,1989-04-22,29,77,2,Cardiff City,1,https://en.wikipedia.org/wiki/Aron_Gunnarsson,"Akureyri, Iceland",-18.1261694,65.68849209999999
+Iceland,D,18,DF,Hörður Björgvin Magnússon,1993-02-11,25,16,2,Bristol City,1,https://en.wikipedia.org/wiki/H%C3%B6r%C3%B0ur_Bj%C3%B6rgvin_Magn%C3%BAsson,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,19,MF,Rúrik Gíslason,1988-02-25,30,46,3,SV Sandhausen,1,https://en.wikipedia.org/wiki/R%C3%BArik_G%C3%ADslason,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Iceland,D,20,MF,Emil Hallfreðsson,1984-06-29,33,63,1,Udinese,1,https://en.wikipedia.org/wiki/Emil_Hallfre%C3%B0sson,"Hafnarfjörður, Iceland",-21.9684626,64.02910539999999
+Iceland,D,21,MF,Arnór Ingvi Traustason,1993-04-30,25,18,5,Malmö,1,https://en.wikipedia.org/wiki/Arn%C3%B3r_Ingvi_Traustason,"Keflavík, Iceland",-22.5582716,63.9997549
+Iceland,D,22,FW,Jón Daði Böðvarsson,1992-05-25,26,37,2,Reading,1,https://en.wikipedia.org/wiki/J%C3%B3n_Da%C3%B0i_B%C3%B6%C3%B0varsson,"Selfoss, Iceland",-21.0013832,63.9334611
+Iceland,D,23,DF,Ari Freyr Skúlason,1987-05-14,31,55,0,Lokeren,1,https://en.wikipedia.org/wiki/Ari_Freyr_Sk%C3%BAlason,"Reykjavík, Iceland",-21.8174392,64.12652059999999
+Nigeria,D,1,GK,Ikechukwu Ezenwa,1988-10-16,29,24,0,Enyimba,1,https://en.wikipedia.org/wiki/Ikechukwu_Ezenwa,"Yenagoa, Nigeria",6.274773400000001,4.921162100000001
+Nigeria,D,2,DF,Brian Idowu,1992-05-18,26,4,1,Amkar Perm,1,https://en.wikipedia.org/wiki/Brian_Idowu,"Saint Petersburg, Russia",30.3350986,59.9342802
+Nigeria,D,3,DF,Elderson Echiéjilé,1988-01-20,30,61,3,Cercle Brugge,1,https://en.wikipedia.org/wiki/Elderson_Echi%C3%A9jil%C3%A9,"Benin City, Nigeria",5.6037465,6.334986
+Nigeria,D,4,MF,Wilfred Ndidi,1996-12-16,21,16,0,Leicester City,1,https://en.wikipedia.org/wiki/Wilfred_Ndidi,"Lagos, Nigeria",3.3792057,6.5243793
+Nigeria,D,5,DF,William Troost-Ekong,1993-09-01,24,21,1,Bursaspor,1,https://en.wikipedia.org/wiki/William_Troost-Ekong,"Haarlem, Netherlands",4.6462194,52.3873878
+Nigeria,D,6,DF,Leon Balogun,1988-06-28,29,18,0,Mainz 05,1,https://en.wikipedia.org/wiki/Leon_Balogun,"West Berlin, West Germany",13.404954,52.52000659999999
+Nigeria,D,7,FW,Ahmed Musa,1992-10-14,25,71,13,CSKA Moscow,1,https://en.wikipedia.org/wiki/Ahmed_Musa_(footballer),"Jos, Nigeria",8.8583309,9.896527299999999
+Nigeria,D,8,MF,Oghenekaro Etebo,1995-11-09,22,14,1,Las Palmas,1,https://en.wikipedia.org/wiki/Oghenekaro_Etebo,"Lagos, Nigeria",3.3792057,6.5243793
+Nigeria,D,9,FW,Odion Ighalo,1989-06-16,28,18,4,Changchun Yatai,1,https://en.wikipedia.org/wiki/Odion_Ighalo,"Lagos, Nigeria",3.3792057,6.5243793
+Nigeria,D,10,MF,John Obi Mikel ,1987-04-22,31,84,6,Tianjin TEDA,1,https://en.wikipedia.org/wiki/John_Obi_Mikel,"Jos, Nigeria",8.8583309,9.896527299999999
+Nigeria,D,11,FW,Victor Moses,1990-12-12,27,33,11,Chelsea,1,https://en.wikipedia.org/wiki/Victor_Moses,"Lagos, Nigeria",3.3792057,6.5243793
+Nigeria,D,12,DF,Shehu Abdullahi,1993-03-12,25,24,0,Bursaspor,1,https://en.wikipedia.org/wiki/Shehu_Abdullahi,"Sokoto, Nigeria",5.2475518,13.0058731
+Nigeria,D,13,FW,Simeon Nwankwo,1992-05-07,26,1,0,Crotone,1,https://en.wikipedia.org/wiki/Simeon_Nwankwo,"Onitsha, Nigeria",6.7923994,6.1329419
+Nigeria,D,14,FW,Kelechi Iheanacho,1996-03-10,22,17,8,Leicester City,1,https://en.wikipedia.org/wiki/Kelechi_Iheanacho,"Imo, Nigeria",7.0068393,5.6038994
+Nigeria,D,15,MF,Joel Obi,1991-05-22,27,17,0,Torino,1,https://en.wikipedia.org/wiki/Joel_Obi,"Lagos, Nigeria",3.3792057,6.5243793
+Nigeria,D,16,GK,Daniel Akpeyi,1986-03-08,32,7,0,Chippa United,1,https://en.wikipedia.org/wiki/Daniel_Akpeyi,"Nnewi, Nigeria",6.9103455,6.0105192
+Nigeria,D,17,MF,Ogenyi Onazi,1992-12-25,25,52,1,Trabzonspor,1,https://en.wikipedia.org/wiki/Ogenyi_Onazi,"Jos, Nigeria",8.8583309,9.896527299999999
+Nigeria,D,18,FW,Alex Iwobi,1996-05-03,22,18,5,Arsenal,1,https://en.wikipedia.org/wiki/Alex_Iwobi,"Lagos, Nigeria",3.3792057,6.5243793
+Nigeria,D,19,MF,John Ogu,1988-04-20,30,19,2,Hapoel Be'er Sheva,1,https://en.wikipedia.org/wiki/John_Ogu,"Lagos, Nigeria",3.3792057,6.5243793
+Nigeria,D,20,DF,Chidozie Awaziem,1997-01-01,21,4,0,Nantes,1,https://en.wikipedia.org/wiki/Chidozie_Awaziem,"Enugu, Nigeria",7.5463885,6.4583661
+Nigeria,D,21,DF,Tyronne Ebuehi,1995-12-16,22,6,0,ADO Den Haag,1,https://en.wikipedia.org/wiki/Tyronne_Ebuehi,"Haarlem, Netherlands",4.6462194,52.3873878
+Nigeria,D,22,DF,Kenneth Omeruo,1993-10-17,24,39,0,Kasımpaşa,1,https://en.wikipedia.org/wiki/Kenneth_Omeruo,"Abia State, Nigeria",7.524724300000001,5.430892099999999
+Nigeria,D,23,GK,Francis Uzoho,1998-10-28,19,5,0,Deportivo La Coruña,1,https://en.wikipedia.org/wiki/Francis_Uzoho,"Nwangele, Imo State, Nigeria",7.1251699,5.7173854
+Brazil,E,1,GK,Alisson,1992-10-02,25,25,0,Roma,1,"https://en.wikipedia.org/wiki/Alisson_(footballer,_born_1992)","Novo Hamburgo, Brazil",-51.03319330000001,-29.7577375
+Brazil,E,2,DF,Thiago Silva,1984-09-22,33,70,5,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Thiago_Silva,"Rio de Janeiro, Brazil",-43.1728965,-22.9068467
+Brazil,E,3,DF,Miranda,1984-09-07,33,46,2,Inter Milan,1,https://en.wikipedia.org/wiki/Miranda_(footballer),"Paranavaí, Brazil",-52.4622155,-23.0821226
+Brazil,E,4,DF,Pedro Geromel,1985-09-21,32,2,0,Grêmio,1,https://en.wikipedia.org/wiki/Pedro_Geromel,"São Paulo, Brazil",-46.63330939999999,-23.5505199
+Brazil,E,5,MF,Casemiro,1992-02-23,26,23,0,Real Madrid,1,https://en.wikipedia.org/wiki/Casemiro,"São José dos Campos, Brazil",-45.9009074,-23.223701
+Brazil,E,6,DF,Filipe Luís,1985-08-09,32,32,2,Atlético Madrid,1,https://en.wikipedia.org/wiki/Filipe_Lu%C3%ADs,"Jaraguá do Sul, Brazil",-49.073477,-26.4822209
+Brazil,E,7,FW,Douglas Costa,1990-09-14,27,24,3,Juventus,1,https://en.wikipedia.org/wiki/Douglas_Costa,"Sapucaia do Sul, Brazil",-51.1479088,-29.8226542
+Brazil,E,8,MF,Renato Augusto,1988-02-08,30,28,5,Beijing Sinobo Guoan,1,https://en.wikipedia.org/wiki/Renato_Augusto,"Rio de Janeiro, Brazil",-43.1728965,-22.9068467
+Brazil,E,9,FW,Gabriel Jesus,1997-04-03,21,16,9,Manchester City,1,https://en.wikipedia.org/wiki/Gabriel_Jesus,"São Paulo, Brazil",-46.63330939999999,-23.5505199
+Brazil,E,10,FW,Neymar,1992-02-05,26,84,54,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Neymar,"Mogi das Cruzes, Brazil",-46.1709012,-23.5386445
+Brazil,E,11,MF,Philippe Coutinho,1992-06-12,25,36,9,Barcelona,1,https://en.wikipedia.org/wiki/Philippe_Coutinho,"Rio de Janeiro, Brazil",-43.1728965,-22.9068467
+Brazil,E,12,DF,Marcelo,1988-05-12,30,53,6,Real Madrid,1,"https://en.wikipedia.org/wiki/Marcelo_(footballer,_born_1988)","Rio de Janeiro, Brazil",-43.1728965,-22.9068467
+Brazil,E,13,DF,Marquinhos,1994-05-14,24,25,0,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Marquinhos,"São Paulo, Brazil",-46.63330939999999,-23.5505199
+Brazil,E,14,DF,Danilo,1991-07-15,26,17,0,Manchester City,1,"https://en.wikipedia.org/wiki/Danilo_(footballer,_born_July_1991)","Bicas, Brazil",-43.0628106,-21.7171248
+Brazil,E,15,MF,Paulinho,1988-07-25,29,49,12,Barcelona,1,https://en.wikipedia.org/wiki/Paulinho_(footballer),"São Paulo, Brazil",-46.63330939999999,-23.5505199
+Brazil,E,16,GK,Cássio,1987-06-06,30,1,0,Corinthians,1,https://en.wikipedia.org/wiki/C%C3%A1ssio_Ramos,"Veranópolis, Brazil",-51.5507201,-28.9429032
+Brazil,E,17,MF,Fernandinho,1985-05-04,33,43,2,Manchester City,1,https://en.wikipedia.org/wiki/Fernandinho_(footballer),"Londrina, Brazil",-51.1695824,-23.3044524
+Brazil,E,18,MF,Fred,1993-03-05,25,8,0,Shakhtar Donetsk,1,"https://en.wikipedia.org/wiki/Fred_(footballer,_born_1993)","Belo Horizonte, Brazil",-43.9627492,-19.8843222
+Brazil,E,19,MF,Willian,1988-08-09,29,56,8,Chelsea,1,"https://en.wikipedia.org/wiki/Willian_(footballer,_born_1988)","Ribeirão Pires, Brazil",-46.4062503,-23.7071623
+Brazil,E,20,FW,Roberto Firmino,1991-10-02,26,20,6,Liverpool,1,https://en.wikipedia.org/wiki/Roberto_Firmino,"Maceió, Brazil",-35.7089492,-9.6498487
+Brazil,E,21,FW,Taison,1988-01-13,30,7,1,Shakhtar Donetsk,1,https://en.wikipedia.org/wiki/Taison,"Pelotas, Brazil",-52.3375886,-31.7653989
+Brazil,E,22,DF,Fagner,1989-06-11,28,4,0,Corinthians,1,https://en.wikipedia.org/wiki/Fagner_Conserva_Lemos,"São Paulo, Brazil",-46.63330939999999,-23.5505199
+Brazil,E,23,GK,Ederson,1993-08-17,24,1,0,Manchester City,1,https://en.wikipedia.org/wiki/Ederson_Moraes,"Osasco, Brazil",-46.7962319,-23.5372048
+Costa Rica,E,1,GK,Keylor Navas,1986-12-15,31,79,0,Real Madrid,1,https://en.wikipedia.org/wiki/Keylor_Navas,"Pérez Zeledón, Costa Rica",-83.63484299999999,9.35473
+Costa Rica,E,2,DF,Johnny Acosta,1983-07-21,34,68,2,Águilas Doradas,1,https://en.wikipedia.org/wiki/Johnny_Acosta,"Ciudad Quesada, Costa Rica",-84.4356706,10.3270781
+Costa Rica,E,3,DF,Giancarlo González,1988-02-08,30,68,2,Bologna,1,https://en.wikipedia.org/wiki/Giancarlo_Gonz%C3%A1lez,"Desamparados, San José, Costa Rica",-84.0616709,9.8969706
+Costa Rica,E,4,DF,Ian Smith,1998-03-06,20,2,0,Norrköping,1,"https://en.wikipedia.org/wiki/Ian_Smith_(footballer,_born_1998)","Guápiles, Costa Rica",-83.7868871,10.2133499
+Costa Rica,E,5,MF,Celso Borges,1988-05-27,30,111,21,Deportivo La Coruña,1,https://en.wikipedia.org/wiki/Celso_Borges,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,6,DF,Óscar Duarte,1989-06-03,29,38,2,Espanyol,1,https://en.wikipedia.org/wiki/%C3%93scar_Duarte_(Costa_Rican_footballer),"Catarina, Nicaragua",-86.0758979,11.9104731
+Costa Rica,E,7,MF,Christian Bolaños,1984-05-17,34,79,6,Saprissa,1,https://en.wikipedia.org/wiki/Christian_Bola%C3%B1os,"Hatillo de San José, Costa Rica",-84.10392619999999,9.9199576
+Costa Rica,E,8,DF,Bryan Oviedo,1990-02-18,28,42,1,Sunderland,1,https://en.wikipedia.org/wiki/Bryan_Oviedo,"Ciudad Quesada, Costa Rica",-84.4356706,10.3270781
+Costa Rica,E,9,MF,Daniel Colindres,1985-01-10,33,11,0,Saprissa,1,https://en.wikipedia.org/wiki/Daniel_Colindres,"Alajuela, Costa Rica",-84.4382721,10.391583
+Costa Rica,E,10,MF,Bryan Ruiz ,1985-08-18,32,109,23,Sporting CP,1,https://en.wikipedia.org/wiki/Bryan_Ruiz,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,11,FW,Johan Venegas,1988-11-27,29,45,10,Saprissa,1,https://en.wikipedia.org/wiki/Johan_Venegas,"Limón, Costa Rica",-83.04150779999999,9.9913106
+Costa Rica,E,12,FW,Joel Campbell,1992-06-26,25,75,15,Real Betis,1,https://en.wikipedia.org/wiki/Joel_Campbell,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,13,MF,Rodney Wallace,1988-06-17,29,30,4,New York City FC,1,https://en.wikipedia.org/wiki/Rodney_Wallace_(footballer),"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,14,MF,Randall Azofeifa,1984-12-30,33,57,3,Herediano,1,https://en.wikipedia.org/wiki/Randall_Azofeifa,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,15,DF,Francisco Calvo,1992-07-08,25,36,4,Minnesota United,1,https://en.wikipedia.org/wiki/Francisco_Calvo,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,16,DF,Cristian Gamboa,1989-10-24,28,66,3,Celtic,1,https://en.wikipedia.org/wiki/Cristian_Gamboa,"Liberia, Costa Rica",-85.4406747,10.6345964
+Costa Rica,E,17,MF,Yeltsin Tejeda,1992-03-17,26,49,0,Lausanne,1,https://en.wikipedia.org/wiki/Yeltsin_Tejeda,"Limón, Costa Rica",-83.04150779999999,9.9913106
+Costa Rica,E,18,GK,Patrick Pemberton,1982-04-24,36,39,0,Alajuelense,1,https://en.wikipedia.org/wiki/Patrick_Pemberton,"Puerto Limón, Costa Rica",-83.04150779999999,9.9913106
+Costa Rica,E,19,DF,Kendall Waston,1988-01-01,30,25,3,Vancouver Whitecaps FC,1,https://en.wikipedia.org/wiki/Kendall_Waston,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,20,MF,David Guzmán,1990-02-18,28,41,0,Portland Timbers,1,https://en.wikipedia.org/wiki/David_Guzm%C3%A1n,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,21,FW,Marco Ureña,1990-03-05,28,62,15,Los Angeles FC,1,https://en.wikipedia.org/wiki/Marco_Ure%C3%B1a,"San José, Costa Rica",-84.0907246,9.9280694
+Costa Rica,E,22,DF,Rónald Matarrita,1994-07-09,23,22,2,New York City FC,1,https://en.wikipedia.org/wiki/R%C3%B3nald_Matarrita,"Alajuela, Costa Rica",-84.4382721,10.391583
+Costa Rica,E,23,GK,Leonel Moreira,1990-04-02,28,9,0,Herediano,1,https://en.wikipedia.org/wiki/Leonel_Moreira,"Heredia, Costa Rica",-84.1197643,9.9981413
+Serbia,E,1,GK,Vladimir Stojković,1983-07-28,34,80,0,Partizan,1,https://en.wikipedia.org/wiki/Vladimir_Stojkovi%C4%87,"Loznica, SFR Yugoslavia",19.2067663,44.5313463
+Serbia,E,2,DF,Antonio Rukavina,1984-01-26,34,46,0,Villarreal,1,https://en.wikipedia.org/wiki/Antonio_Rukavina,"Belgrade, SFR Yugoslavia",20.4489216,44.786568
+Serbia,E,3,DF,Duško Tošić,1985-01-19,33,23,1,Beşiktaş,1,https://en.wikipedia.org/wiki/Du%C5%A1ko_To%C5%A1i%C4%87,"Zrenjanin, SFR Yugoslavia",20.3685737,45.3815612
+Serbia,E,4,MF,Luka Milivojević,1991-04-07,27,27,1,Crystal Palace,1,https://en.wikipedia.org/wiki/Luka_Milivojevi%C4%87,"Kragujevac, SFR Yugoslavia",20.9114225,44.0127932
+Serbia,E,5,DF,Uroš Spajić,1993-02-13,25,5,0,Anderlecht,1,https://en.wikipedia.org/wiki/Uro%C5%A1_Spaji%C4%87,"Belgrade, FR Yugoslavia",20.4633611,44.7984301
+Serbia,E,6,DF,Branislav Ivanović,1984-02-22,34,102,12,Zenit Saint Petersburg,1,https://en.wikipedia.org/wiki/Branislav_Ivanovi%C4%87,"Sremska Mitrovica, SFR Yugoslavia",19.6209662,44.9794968
+Serbia,E,7,MF,Andrija Živković,1996-07-11,21,10,0,Benfica,1,https://en.wikipedia.org/wiki/Andrija_%C5%BDivkovi%C4%87,"Niš, FR Yugoslavia",21.8957589,43.3209022
+Serbia,E,8,FW,Aleksandar Prijović,1990-04-21,28,8,1,PAOK,1,https://en.wikipedia.org/wiki/Aleksandar_Prijovi%C4%87,"Sankt Gallen, Switzerland",9.3767173,47.4244818
+Serbia,E,9,FW,Aleksandar Mitrović,1994-09-16,23,36,13,Fulham,1,https://en.wikipedia.org/wiki/Aleksandar_Mitrovi%C4%87_(footballer),"Smederevo, FR Yugoslavia",20.9335169,44.6658941
+Serbia,E,10,MF,Dušan Tadić,1988-11-20,29,52,13,Southampton,1,https://en.wikipedia.org/wiki/Du%C5%A1an_Tadi%C4%87,"Bačka Topola, SFR Yugoslavia",19.6379551,45.81442380000001
+Serbia,E,11,DF,Aleksandar Kolarov ,1985-11-10,32,75,10,Roma,1,https://en.wikipedia.org/wiki/Aleksandar_Kolarov,"Belgrade, SFR Yugoslavia",20.4489216,44.786568
+Serbia,E,12,GK,Predrag Rajković,1995-10-31,22,7,0,Maccabi Tel Aviv,1,https://en.wikipedia.org/wiki/Predrag_Rajkovi%C4%87,"Negotin, FR Yugoslavia",22.5310674,44.2288747
+Serbia,E,13,DF,Miloš Veljković,1995-09-26,22,2,0,Werder Bremen,1,https://en.wikipedia.org/wiki/Milo%C5%A1_Veljkovi%C4%87,"Basel, Switzerland",7.5885761,47.5595986
+Serbia,E,14,DF,Milan Rodić,1991-04-02,27,1,0,Red Star Belgrade,1,https://en.wikipedia.org/wiki/Milan_Rodi%C4%87,"Drvar, SFR Yugoslavia",16.3812914,44.371114
+Serbia,E,15,DF,Nikola Milenković,1997-10-12,20,2,0,Fiorentina,1,https://en.wikipedia.org/wiki/Nikola_Milenkovi%C4%87,"Belgrade, FR Yugoslavia",20.4633611,44.7984301
+Serbia,E,16,MF,Marko Grujić,1996-04-13,22,7,0,Cardiff City,1,https://en.wikipedia.org/wiki/Marko_Gruji%C4%87,"Belgrade, FR Yugoslavia",20.4633611,44.7984301
+Serbia,E,17,MF,Filip Kostić,1992-11-01,25,22,2,Hamburger SV,1,https://en.wikipedia.org/wiki/Filip_Kosti%C4%87,"Kragujevac, FR Yugoslavia",20.9114225,44.0127932
+Serbia,E,18,FW,Nemanja Radonjić,1996-02-15,22,2,0,Red Star Belgrade,1,https://en.wikipedia.org/wiki/Nemanja_Radonji%C4%87,"Niš, FR Yugoslavia",21.8957589,43.3209022
+Serbia,E,19,FW,Luka Jović,1997-12-23,20,1,0,Eintracht Frankfurt,1,https://en.wikipedia.org/wiki/Luka_Jovi%C4%87,"Bijeljina, Bosnia and Herzegovina",19.2150224,44.75695109999999
+Serbia,E,20,MF,Sergej Milinković-Savić,1995-02-27,23,3,0,Lazio,1,https://en.wikipedia.org/wiki/Sergej_Milinkovi%C4%87-Savi%C4%87,"Lleida, Spain",0.6200146,41.6175899
+Serbia,E,21,MF,Nemanja Matić,1988-08-01,29,39,2,Manchester United,1,https://en.wikipedia.org/wiki/Nemanja_Mati%C4%87,"Šabac, SFR Yugoslavia",19.6907882,44.7488612
+Serbia,E,22,MF,Adem Ljajić,1991-09-29,26,28,5,Torino,1,https://en.wikipedia.org/wiki/Adem_Ljaji%C4%87,"Novi Pazar, SFR Yugoslavia",20.5213617,43.1406976
+Serbia,E,23,GK,Marko Dmitrović,1992-01-24,26,2,0,Eibar,1,https://en.wikipedia.org/wiki/Marko_Dmitrovi%C4%87,"Subotica, SFR Yugoslavia",19.6650593,46.1005467
+Switzerland,E,1,GK,Yann Sommer,1988-12-17,29,35,0,Borussia Mönchengladbach,1,https://en.wikipedia.org/wiki/Yann_Sommer,"Morges, Switzerland",6.496130099999999,46.5088127
+Switzerland,E,2,DF,Stephan Lichtsteiner ,1984-01-16,34,99,8,Juventus,1,https://en.wikipedia.org/wiki/Stephan_Lichtsteiner,"Adligenswil, Switzerland",8.3647405,47.071186
+Switzerland,E,3,DF,François Moubandje,1990-06-21,27,17,0,Toulouse,1,https://en.wikipedia.org/wiki/Fran%C3%A7ois_Moubandje,"Douala, Cameroon",9.7678687,4.0510564
+Switzerland,E,4,DF,Nico Elvedi,1996-09-30,21,5,0,Borussia Mönchengladbach,1,https://en.wikipedia.org/wiki/Nico_Elvedi,"Zürich, Switzerland",8.541694,47.3768866
+Switzerland,E,5,DF,Manuel Akanji,1995-07-19,22,6,0,Borussia Dortmund,1,https://en.wikipedia.org/wiki/Manuel_Akanji,"Wiesendangen, Switzerland",8.790539899999999,47.52133509999999
+Switzerland,E,6,DF,Michael Lang,1991-02-08,27,24,2,Basel,1,https://en.wikipedia.org/wiki/Michael_Lang_(footballer),"Egnach, Switzerland",9.3698905,47.5287304
+Switzerland,E,7,FW,Breel Embolo,1997-02-14,21,24,3,Schalke 04,1,https://en.wikipedia.org/wiki/Breel_Embolo,"Yaoundé, Cameroon",11.5020752,3.8480325
+Switzerland,E,8,MF,Remo Freuler,1992-04-15,26,9,0,Atalanta,1,https://en.wikipedia.org/wiki/Remo_Freuler,"Ennenda, Switzerland",9.077552899999999,47.0338781
+Switzerland,E,9,FW,Haris Seferović,1992-02-22,26,50,11,Benfica,1,https://en.wikipedia.org/wiki/Haris_Seferovi%C4%87,"Sursee, Switzerland",8.111131199999999,47.1714819
+Switzerland,E,10,MF,Granit Xhaka,1992-09-27,25,61,9,Arsenal,1,https://en.wikipedia.org/wiki/Granit_Xhaka,"Basel, Switzerland",7.5885761,47.5595986
+Switzerland,E,11,MF,Valon Behrami,1985-04-19,33,78,2,Udinese,1,https://en.wikipedia.org/wiki/Valon_Behrami,"Titova Mitrovica, Yugoslavia",20.8659995,42.8913909
+Switzerland,E,12,GK,Yvon Mvogo,1994-06-06,23,0,0,RB Leipzig,1,https://en.wikipedia.org/wiki/Yvon_Mvogo,"Yaoundé, Cameroon",11.5020752,3.8480325
+Switzerland,E,13,DF,Ricardo Rodríguez,1992-08-25,25,52,4,Milan,1,https://en.wikipedia.org/wiki/Ricardo_Rodr%C3%ADguez_(footballer),"Zürich, Switzerland",8.541694,47.3768866
+Switzerland,E,14,MF,Steven Zuber,1991-08-17,26,11,3,1899 Hoffenheim,1,https://en.wikipedia.org/wiki/Steven_Zuber,"Winterthur, Zürich, Switzerland",8.723688899999999,47.4988196
+Switzerland,E,15,MF,Blerim Džemaili,1986-04-12,32,64,9,Bologna,1,https://en.wikipedia.org/wiki/Blerim_D%C5%BEemaili,"Tetovo, SR Macedonia, SFR Yugoslavia",20.9715269,42.0069115
+Switzerland,E,16,MF,Gelson Fernandes,1986-09-02,31,67,2,Eintracht Frankfurt,1,https://en.wikipedia.org/wiki/Gelson_Fernandes,"Praia, Cape Verde",-23.5133267,14.93305
+Switzerland,E,17,MF,Denis Zakaria,1996-11-20,21,10,0,Borussia Mönchengladbach,1,https://en.wikipedia.org/wiki/Denis_Zakaria,"Geneva, Switzerland",6.1431577,46.2043907
+Switzerland,E,18,FW,Mario Gavranović,1989-11-24,28,13,5,Dinamo Zagreb,1,https://en.wikipedia.org/wiki/Mario_Gavranovi%C4%87,"Lugano, Switzerland",8.951051999999999,46.0036778
+Switzerland,E,19,FW,Josip Drmić,1992-08-08,25,28,9,Borussia Mönchengladbach,1,https://en.wikipedia.org/wiki/Josip_Drmi%C4%87,"Lachen, Switzerland",8.8532083,47.1934652
+Switzerland,E,20,DF,Johan Djourou,1987-01-18,31,74,2,Antalyaspor,1,https://en.wikipedia.org/wiki/Johan_Djourou,"Abidjan, Côte d'Ivoire",-4.0082563,5.3599517
+Switzerland,E,21,GK,Roman Bürki,1990-11-14,27,8,0,Borussia Dortmund,1,https://en.wikipedia.org/wiki/Roman_B%C3%BCrki,"Münsingen, Switzerland",7.5627528,46.8746813
+Switzerland,E,22,DF,Fabian Schär,1991-12-20,26,38,7,Deportivo La Coruña,1,https://en.wikipedia.org/wiki/Fabian_Sch%C3%A4r,"Wil, Switzerland",9.0479097,47.4635617
+Switzerland,E,23,MF,Xherdan Shaqiri,1991-10-10,26,69,20,Stoke City,1,https://en.wikipedia.org/wiki/Xherdan_Shaqiri,"Gjilan, SFR Yugoslavia",21.4694011,42.4635206
+Germany,F,1,GK,Manuel Neuer ,1986-03-27,32,75,0,Bayern Munich,1,https://en.wikipedia.org/wiki/Manuel_Neuer,"Gelsenkirchen, West Germany",7.0487091,51.5404553
+Germany,F,2,DF,Marvin Plattenhardt,1992-01-26,26,6,0,Hertha BSC,1,https://en.wikipedia.org/wiki/Marvin_Plattenhardt,"Filderstadt, Germany",9.2161353,48.67819739999999
+Germany,F,3,DF,Jonas Hector,1990-05-27,28,37,3,1. FC Köln,1,https://en.wikipedia.org/wiki/Jonas_Hector,"Saarbrücken, West Germany",6.996932699999999,49.24015720000001
+Germany,F,4,DF,Matthias Ginter,1994-01-19,24,17,0,Borussia Mönchengladbach,1,https://en.wikipedia.org/wiki/Matthias_Ginter,"Freiburg im Breisgau, Germany",7.842104299999999,47.9990077
+Germany,F,5,DF,Mats Hummels,1988-12-16,29,63,5,Bayern Munich,1,https://en.wikipedia.org/wiki/Mats_Hummels,"Bergisch Gladbach, West Germany",7.1286213,50.9923091
+Germany,F,6,MF,Sami Khedira,1987-04-04,31,74,7,Juventus,1,https://en.wikipedia.org/wiki/Sami_Khedira,"Stuttgart, West Germany",9.1087963,48.7670839
+Germany,F,7,MF,Julian Draxler,1993-09-20,24,43,6,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Julian_Draxler,"Gladbeck, Germany",6.985392099999999,51.5706624
+Germany,F,8,MF,Toni Kroos,1990-01-04,28,82,12,Real Madrid,1,https://en.wikipedia.org/wiki/Toni_Kroos,"Greifswald, East Germany",13.3923414,54.08654629999999
+Germany,F,9,FW,Timo Werner,1996-03-06,22,13,7,RB Leipzig,1,https://en.wikipedia.org/wiki/Timo_Werner,"Stuttgart, Germany",9.1829321,48.7758459
+Germany,F,10,MF,Mesut Özil,1988-10-15,29,90,23,Arsenal,1,https://en.wikipedia.org/wiki/Mesut_%C3%96zil,"Gelsenkirchen, West Germany",7.0487091,51.5404553
+Germany,F,11,FW,Marco Reus,1989-05-31,29,30,9,Borussia Dortmund,1,https://en.wikipedia.org/wiki/Marco_Reus,"Dortmund, West Germany",7.4309442,51.5062342
+Germany,F,12,GK,Kevin Trapp,1990-07-08,27,3,0,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Kevin_Trapp,"Merzig, West Germany",6.6437843,49.4489588
+Germany,F,13,MF,Thomas Müller,1989-09-13,28,90,38,Bayern Munich,1,https://en.wikipedia.org/wiki/Thomas_M%C3%BCller,"Weilheim in Oberbayern, West Germany",11.1421379,47.8406859
+Germany,F,14,MF,Leon Goretzka,1995-02-06,23,15,6,Schalke 04,1,https://en.wikipedia.org/wiki/Leon_Goretzka,"Bochum, Germany",7.216236299999999,51.4818445
+Germany,F,15,DF,Niklas Süle,1995-09-03,22,10,0,Bayern Munich,1,https://en.wikipedia.org/wiki/Niklas_S%C3%BCle,"Frankfurt, Germany",8.6821267,50.1109221
+Germany,F,16,DF,Antonio Rüdiger,1993-03-03,25,24,1,Chelsea,1,https://en.wikipedia.org/wiki/Antonio_R%C3%BCdiger,"Berlin, Germany",13.404954,52.52000659999999
+Germany,F,17,DF,Jérôme Boateng,1988-09-03,29,70,1,Bayern Munich,1,https://en.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Boateng,"West Berlin, Germany",13.404954,52.52000659999999
+Germany,F,18,DF,Joshua Kimmich,1995-02-08,23,28,3,Bayern Munich,1,https://en.wikipedia.org/wiki/Joshua_Kimmich,"Rottweil, Germany",8.628453,48.1652577
+Germany,F,19,MF,Sebastian Rudy,1990-02-28,28,25,1,Bayern Munich,1,https://en.wikipedia.org/wiki/Sebastian_Rudy,"Villingen-Schwenningen, West Germany",8.4640869,48.0594021
+Germany,F,20,MF,Julian Brandt,1996-05-02,22,15,1,Bayer Leverkusen,1,https://en.wikipedia.org/wiki/Julian_Brandt,"Bremen, Germany",8.8016936,53.07929619999999
+Germany,F,21,MF,İlkay Gündoğan,1990-10-24,27,25,4,Manchester City,1,https://en.wikipedia.org/wiki/%C4%B0lkay_G%C3%BCndo%C4%9Fan,"Gelsenkirchen, Germany",7.085717199999999,51.517744
+Germany,F,22,GK,Marc-André ter Stegen,1992-04-30,26,19,0,Barcelona,1,https://en.wikipedia.org/wiki/Marc-Andr%C3%A9_ter_Stegen,"Mönchengladbach, Germany",6.4428041,51.1804572
+Germany,F,23,FW,Mario Gómez,1985-07-10,32,74,31,VfB Stuttgart,1,https://en.wikipedia.org/wiki/Mario_G%C3%B3mez,"Riedlingen, West Germany",9.471334599999999,48.1596486
+Mexico,F,1,GK,José de Jesús Corona,1981-01-26,37,52,0,Cruz Azul,1,https://en.wikipedia.org/wiki/Jos%C3%A9_de_Jes%C3%BAs_Corona,"Guadalajara, Jalisco, Mexico",-103.3496092,20.6596988
+Mexico,F,2,DF,Hugo Ayala,1987-03-31,31,42,1,UANL,1,https://en.wikipedia.org/wiki/Hugo_Ayala,"Zacapu, Michoacán, Mexico",-101.7956703,19.8125119
+Mexico,F,3,DF,Carlos Salcedo,1993-09-29,24,20,0,Eintracht Frankfurt,1,https://en.wikipedia.org/wiki/Carlos_Salcedo,"Guadalajara, Mexico",-103.3496092,20.6596988
+Mexico,F,4,DF,Rafael Márquez,1979-02-13,39,144,18,Atlas,1,https://en.wikipedia.org/wiki/Rafael_M%C3%A1rquez,"Zamora, Michoacán, Mexico",-102.2834075,19.9901766
+Mexico,F,5,DF,Diego Reyes,1992-09-19,25,55,1,Porto,1,https://en.wikipedia.org/wiki/%C3%89rick_Guti%C3%A9rrez,"Ahome, Sinaloa, Mexico",-108.9917304,25.7904061
+Mexico,F,6,MF,Jonathan dos Santos,1990-04-26,28,31,0,LA Galaxy,1,https://en.wikipedia.org/wiki/Jonathan_dos_Santos,"Monterrey, Mexico",-100.3161126,25.6866142
+Mexico,F,7,MF,Miguel Layún,1988-06-25,29,63,6,Sevilla,1,https://en.wikipedia.org/wiki/Miguel_Lay%C3%BAn,"Córdoba, Veracruz, Mexico",-96.9237751,18.8838909
+Mexico,F,8,FW,Marco Fabián,1989-07-21,28,38,9,Eintracht Frankfurt,1,https://en.wikipedia.org/wiki/Marco_Fabi%C3%A1n,"Guadalajara, Jalisco, Mexico",-103.3496092,20.6596988
+Mexico,F,9,FW,Raúl Jiménez,1991-05-05,27,63,13,Benfica,1,https://en.wikipedia.org/wiki/Ra%C3%BAl_Jim%C3%A9nez,"Tepeji, Hidalgo, Mexico",-99.3506604,19.9114508
+Mexico,F,10,MF,Giovani dos Santos,1989-05-11,29,104,19,LA Galaxy,1,https://en.wikipedia.org/wiki/Giovani_dos_Santos,"Monterrey, Mexico",-100.3161126,25.6866142
+Mexico,F,11,FW,Carlos Vela,1989-03-01,29,68,18,Los Angeles FC,1,https://en.wikipedia.org/wiki/Carlos_Vela,"Cancún, Mexico",-86.8515279,21.161908
+Mexico,F,12,GK,Alfredo Talavera,1982-09-18,35,27,0,Toluca,1,https://en.wikipedia.org/wiki/Alfredo_Talavera,"La Barca, Jalisco, Mexico",-102.54582190000001,20.2906606
+Mexico,F,13,GK,Guillermo Ochoa,1985-07-13,32,93,0,Standard Liège,1,https://en.wikipedia.org/wiki/Guillermo_Ochoa,"Guadalajara, Jalisco, Mexico",-103.3496092,20.6596988
+Mexico,F,14,FW,Javier Hernández,1988-06-01,30,101,49,West Ham United,1,https://en.wikipedia.org/wiki/Javier_Hern%C3%A1ndez,"Guadalajara, Mexico",-103.3496092,20.6596988
+Mexico,F,15,DF,Héctor Moreno,1988-01-17,30,91,3,Real Sociedad,1,https://en.wikipedia.org/wiki/H%C3%A9ctor_Moreno,"Culiacán, Sinaloa, Mexico",-107.3940117,24.8090649
+Mexico,F,16,DF,Héctor Herrera,1990-04-19,28,65,5,Porto,1,https://en.wikipedia.org/wiki/H%C3%A9ctor_Herrera,"Tijuana, Mexico",-117.0382471,32.5149469
+Mexico,F,17,MF,Jesús Manuel Corona,1993-01-06,25,35,7,Porto,1,https://en.wikipedia.org/wiki/Jes%C3%BAs_Manuel_Corona,"Hermosillo, Sonora, Mexico",-110.9559192,29.0729673
+Mexico,F,18,MF,Andrés Guardado ,1986-09-28,31,144,25,Real Betis,1,https://en.wikipedia.org/wiki/Andr%C3%A9s_Guardado,"Guadalajara, Mexico",-103.3496092,20.6596988
+Mexico,F,19,FW,Oribe Peralta,1984-01-12,34,66,26,América,1,https://en.wikipedia.org/wiki/Oribe_Peralta,"Torreón, Coahuila, Mexico",-103.4067861,25.5428443
+Mexico,F,20,MF,Javier Aquino,1990-02-11,28,53,0,UANL,1,https://en.wikipedia.org/wiki/Javier_Aquino,"Ixhuatán, Oaxaca, Mexico",-94.48255119999999,16.3489502
+Mexico,F,21,DF,Edson Álvarez,1997-10-24,20,12,1,América,1,https://en.wikipedia.org/wiki/Edson_%C3%81lvarez,"Tlalnepantla de Baz, Mexico",-99.19073639999999,19.5345279
+Mexico,F,22,FW,Hirving Lozano,1995-07-30,22,27,7,PSV Eindhoven,1,https://en.wikipedia.org/wiki/Hirving_Lozano,"Mexico City, Mexico",-99.133208,19.4326077
+Mexico,F,23,MF,Jesús Gallardo,1994-08-15,23,22,0,UNAM,1,https://en.wikipedia.org/wiki/Jes%C3%BAs_Gallardo,"Tabasco, Mexico",-92.6189273,17.8409173
+South Korea,F,1,GK,Kim Seung-gyu,1990-09-30,27,32,0,Vissel Kobe,1,https://en.wikipedia.org/wiki/Kim_Seung-gyu,"Ulsan, South Korea",129.3113596,35.5383773
+South Korea,F,2,DF,Lee Yong,1986-12-24,31,26,0,Jeonbuk Hyundai Motors,1,"https://en.wikipedia.org/wiki/Lee_Yong_(footballer,_born_1986)","Ulsan, South Korea",129.3113596,35.5383773
+South Korea,F,3,DF,Jung Seung-hyun,1994-04-03,24,6,0,Sagan Tosu,1,https://en.wikipedia.org/wiki/Jung_Seung-hyun,"Incheon, South Korea",126.7052062,37.4562557
+South Korea,F,4,DF,Oh Ban-suk,1988-05-20,30,2,0,Jeju United,1,https://en.wikipedia.org/wiki/Oh_Ban-suk,"Gwacheon, South Korea",126.9874451,37.429246
+South Korea,F,5,DF,Yun Young-sun,1988-10-04,29,5,0,Seongnam FC,1,https://en.wikipedia.org/wiki/Yun_Young-sun,South Korea,127.766922,35.907757
+South Korea,F,6,DF,Park Joo-ho,1987-01-16,31,35,0,Ulsan Hyundai,1,https://en.wikipedia.org/wiki/Park_Joo-ho,"Seoul, South Korea",126.9779692,37.566535
+South Korea,F,7,FW,Son Heung-min,1992-07-08,25,65,21,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Son_Heung-min,"Chuncheon, South Korea",127.7299707,37.8813153
+South Korea,F,8,MF,Ju Se-jong,1990-10-30,27,10,1,Asan Mugunghwa,1,https://en.wikipedia.org/wiki/Ju_Se-jong,"Anyang, Gyeonggi, South Korea",126.9568209,37.3942527
+South Korea,F,9,FW,Kim Shin-wook,1988-04-14,30,48,10,Jeonbuk Hyundai Motors,1,https://en.wikipedia.org/wiki/Kim_Shin-wook,"Gwacheon, South Korea",126.9874451,37.429246
+South Korea,F,10,MF,Lee Seung-woo,1998-01-06,20,2,0,Hellas Verona,1,https://en.wikipedia.org/wiki/Lee_Seung-woo,"Suwon, South Korea",127.0286009,37.2635727
+South Korea,F,11,FW,Hwang Hee-chan,1996-01-26,22,13,2,Red Bull Salzburg,1,https://en.wikipedia.org/wiki/Hwang_Hee-chan,"Chuncheon, South Korea",127.7299707,37.8813153
+South Korea,F,12,DF,Kim Min-woo,1990-02-25,28,18,1,Sangju Sangmu,1,https://en.wikipedia.org/wiki/Kim_Min-woo_(footballer),"Jinju, South Gyeongsang,South Korea",128.1076213,35.1799817
+South Korea,F,13,MF,Koo Ja-cheol,1989-02-27,29,66,19,FC Augsburg,1,https://en.wikipedia.org/wiki/Koo_Ja-cheol,"Nonsan, South Chungcheong, South Korea",127.0987453,36.1870656
+South Korea,F,14,DF,Hong Chul,1990-09-17,27,14,0,Sangju Sangmu,1,https://en.wikipedia.org/wiki/Hong_Chul,"Hwaseong, Gyeonggi, South Korea",126.8311887,37.1994932
+South Korea,F,15,MF,Jung Woo-young,1989-12-14,28,28,1,Vissel Kobe,1,https://en.wikipedia.org/wiki/Jung_Woo-young,"Ulsan, South Korea",129.3113596,35.5383773
+South Korea,F,16,MF,Ki Sung-yueng ,1989-01-24,29,100,10,Swansea City,1,https://en.wikipedia.org/wiki/Ki_Sung-yueng,"Gwangju, South Korea",126.8526012,35.1595454
+South Korea,F,17,MF,Lee Jae-sung,1992-08-10,25,33,6,Jeonbuk Hyundai Motors,1,"https://en.wikipedia.org/wiki/Lee_Jae-sung_(footballer,_born_1992)","Ulsan, South Korea",129.3113596,35.5383773
+South Korea,F,18,MF,Moon Seon-min,1992-06-09,25,2,1,Incheon United,1,https://en.wikipedia.org/wiki/Moon_Seon-min,"Seoul, South Korea",126.9779692,37.566535
+South Korea,F,19,DF,Kim Young-gwon,1990-02-27,28,51,2,Guangzhou Evergrande,1,https://en.wikipedia.org/wiki/Kim_Young-gwon,"Jeonju, South Korea",127.1479532,35.8242238
+South Korea,F,20,DF,Jang Hyun-soo,1991-09-28,26,49,3,FC Tokyo,1,https://en.wikipedia.org/wiki/Jang_Hyun-soo,"Seoul, South Korea",126.9779692,37.566535
+South Korea,F,21,GK,Kim Jin-hyeon,1987-07-06,30,14,0,Cerezo Osaka,1,https://en.wikipedia.org/wiki/Kim_Jin-hyeon,"Suwon, South Korea",127.0286009,37.2635727
+South Korea,F,22,DF,Go Yo-han,1988-03-10,30,19,0,FC Seoul,1,https://en.wikipedia.org/wiki/Go_Yo-han,"Masan, South Korea",128.581433,35.213516
+South Korea,F,23,GK,Cho Hyun-woo,1991-09-25,26,5,0,Daegu FC,1,https://en.wikipedia.org/wiki/Cho_Hyun-woo,South Korea,127.766922,35.907757
+Sweden,F,1,GK,Robin Olsen,1990-01-08,28,17,0,Copenhagen,1,https://en.wikipedia.org/wiki/Robin_Olsen,"Malmö, Sweden",13.003822,55.604981
+Sweden,F,2,DF,Mikael Lustig,1986-12-13,31,65,6,Celtic,1,https://en.wikipedia.org/wiki/Mikael_Lustig,"Umeå, Sweden",20.2630354,63.8258471
+Sweden,F,3,DF,Victor Lindelöf,1994-07-17,23,20,1,Manchester United,1,https://en.wikipedia.org/wiki/Victor_Lindel%C3%B6f,"Västerås, Sweden",16.5448092,59.60990049999999
+Sweden,F,4,DF,Andreas Granqvist ,1985-04-16,33,71,6,Krasnodar,1,https://en.wikipedia.org/wiki/Andreas_Granqvist,"Påarp, Sweden",12.814264,56.0285617
+Sweden,F,5,DF,Martin Olsson,1988-05-17,30,43,5,Swansea City,1,https://en.wikipedia.org/wiki/Martin_Olsson,"Gävle, Sweden",17.1412726,60.6748796
+Sweden,F,6,DF,Ludwig Augustinsson,1994-04-21,24,14,0,Werder Bremen,1,https://en.wikipedia.org/wiki/Ludwig_Augustinsson,"Stockholm, Sweden",18.0685808,59.32932349999999
+Sweden,F,7,MF,Sebastian Larsson,1985-06-06,32,99,6,Hull City,1,https://en.wikipedia.org/wiki/Sebastian_Larsson,"Eskilstuna, Sweden",16.5098046,59.37124859999999
+Sweden,F,8,MF,Albin Ekdal,1989-07-28,28,33,0,Hamburger SV,1,https://en.wikipedia.org/wiki/Albin_Ekdal,"Stockholm, Sweden",18.0685808,59.32932349999999
+Sweden,F,9,FW,Marcus Berg,1986-08-17,31,56,18,Al Ain,1,https://en.wikipedia.org/wiki/Marcus_Berg,"Torsby, Sweden",13.0102132,60.14090719999999
+Sweden,F,10,MF,Emil Forsberg,1991-10-23,26,35,6,RB Leipzig,1,https://en.wikipedia.org/wiki/Emil_Forsberg,"Sundsvall, Sweden",17.306927,62.390811
+Sweden,F,11,FW,John Guidetti,1992-04-15,26,20,1,Alavés,1,https://en.wikipedia.org/wiki/John_Guidetti,"Stockholm, Sweden",18.0685808,59.32932349999999
+Sweden,F,12,GK,Karl-Johan Johnsson,1990-01-28,28,5,0,Guingamp,1,https://en.wikipedia.org/wiki/Karl-Johan_Johnsson,"Ränneslöv, Sweden",13.0715797,56.4530442
+Sweden,F,13,MF,Gustav Svensson,1987-02-07,31,12,0,Seattle Sounders FC,1,https://en.wikipedia.org/wiki/Gustav_Svensson,"Gothenburg, Sweden",11.97456,57.70887
+Sweden,F,14,DF,Filip Helander,1993-04-22,25,4,0,Bologna,1,https://en.wikipedia.org/wiki/Filip_Helander,"Malmö, Sweden",13.003822,55.604981
+Sweden,F,15,MF,Oscar Hiljemark,1992-06-28,25,21,2,Genoa,1,https://en.wikipedia.org/wiki/Oscar_Hiljemark,"Gislaved, Sweden",13.54326,57.2985
+Sweden,F,16,DF,Emil Krafth,1994-08-02,23,12,0,Bologna,1,https://en.wikipedia.org/wiki/Emil_Krafth,"Stockholm, Sweden",18.0685808,59.32932349999999
+Sweden,F,17,MF,Viktor Claesson,1992-01-02,26,21,3,Krasnodar,1,https://en.wikipedia.org/wiki/Viktor_Claesson,"Värnamo, Sweden",14.0478214,57.1831605
+Sweden,F,18,DF,Pontus Jansson,1991-02-13,27,15,0,Leeds United,1,https://en.wikipedia.org/wiki/Pontus_Jansson,"Arlöv, Sweden",13.0744097,55.6345009
+Sweden,F,19,MF,Marcus Rohdén,1991-05-11,27,11,1,Crotone,1,https://en.wikipedia.org/wiki/Marcus_Rohd%C3%A9n,"Värnamo, Sweden",14.0478214,57.1831605
+Sweden,F,20,FW,Ola Toivonen,1986-07-03,31,58,13,Toulouse,1,https://en.wikipedia.org/wiki/Ola_Toivonen,"Degerfors, Sweden",14.4339179,59.2391027
+Sweden,F,21,MF,Jimmy Durmaz,1989-03-22,29,45,3,Toulouse,1,https://en.wikipedia.org/wiki/Jimmy_Durmaz,"Örebro, Sweden",15.2134105,59.2752626
+Sweden,F,22,FW,Isaac Kiese Thelin,1992-06-24,25,19,2,Waasland-Beveren,1,https://en.wikipedia.org/wiki/Isaac_Kiese_Thelin,"Örebro, Sweden",15.2134105,59.2752626
+Sweden,F,23,GK,Kristoffer Nordfeldt,1989-06-23,28,8,0,Swansea City,1,https://en.wikipedia.org/wiki/Kristoffer_Nordfeldt,"Stockholm, Sweden",18.0685808,59.32932349999999
+Belgium,G,1,GK,Thibaut Courtois,1992-05-11,26,56,0,Chelsea,1,https://en.wikipedia.org/wiki/Thibaut_Courtois,"Bree, Belgium",5.59802,51.14099
+Belgium,G,2,DF,Toby Alderweireld,1989-03-02,29,72,3,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Toby_Alderweireld,"Antwerp, Belgium",4.4024643,51.2194475
+Belgium,G,3,DF,Thomas Vermaelen,1985-11-14,32,64,1,Barcelona,1,https://en.wikipedia.org/wiki/Thomas_Vermaelen,"Kapellen, Belgium",4.432400400000001,51.3140004
+Belgium,G,4,DF,Vincent Kompany,1986-04-10,32,74,4,Manchester City,1,https://en.wikipedia.org/wiki/Vincent_Kompany,"Uccle, Brussels, Belgium",4.340669999999999,50.8023982
+Belgium,G,5,DF,Jan Vertonghen,1987-04-24,31,100,8,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Jan_Vertonghen,"Sint-Niklaas, Belgium",4.154440999999999,51.1558839
+Belgium,G,6,MF,Axel Witsel,1989-01-12,29,85,9,Tianjin Quanjian,1,https://en.wikipedia.org/wiki/Axel_Witsel,"Liège, Belgium",5.5796662,50.6325574
+Belgium,G,7,MF,Kevin De Bruyne,1991-06-28,26,57,13,Manchester City,1,https://en.wikipedia.org/wiki/Kevin_De_Bruyne,"Drongen, Ghent, Belgium",3.6633,51.05048
+Belgium,G,8,MF,Marouane Fellaini,1987-11-22,30,79,16,Manchester United,1,https://en.wikipedia.org/wiki/Marouane_Fellaini,"Etterbeek, Brussels, Belgium",4.3889939,50.832578
+Belgium,G,9,FW,Romelu Lukaku,1993-05-13,25,64,30,Manchester United,1,https://en.wikipedia.org/wiki/Romelu_Lukaku,"Antwerp, Belgium",4.4024643,51.2194475
+Belgium,G,10,FW,Eden Hazard ,1991-01-07,27,82,21,Chelsea,1,https://en.wikipedia.org/wiki/Eden_Hazard,"La Louvière, Belgium",4.1837388,50.4747995
+Belgium,G,11,MF,Yannick Carrasco,1993-09-04,24,23,5,Dalian Yifang,1,https://en.wikipedia.org/wiki/Yannick_Ferreira_Carrasco,"Vilvoorde, Belgium",4.4257868,50.9272511
+Belgium,G,12,GK,Simon Mignolet,1988-03-06,30,21,0,Liverpool,1,https://en.wikipedia.org/wiki/Simon_Mignolet,"Sint-Truiden, Belgium",5.1862508,50.8157248
+Belgium,G,13,GK,Koen Casteels,1992-06-25,25,0,0,VfL Wolfsburg,1,https://en.wikipedia.org/wiki/Koen_Casteels,"Bonheiden, Belgium",4.54803,51.02221000000001
+Belgium,G,14,FW,Dries Mertens,1987-05-06,31,65,13,Napoli,1,https://en.wikipedia.org/wiki/Dries_Mertens,"Leuven, Belgium",4.7005176,50.8798438
+Belgium,G,15,DF,Thomas Meunier,1991-09-12,26,23,5,Paris Saint-Germain,1,https://en.wikipedia.org/wiki/Thomas_Meunier,"Sainte-Ode, Belgium",5.54655,50.02683
+Belgium,G,16,MF,Thorgan Hazard,1993-03-29,25,8,1,Borussia Mönchengladbach,1,https://en.wikipedia.org/wiki/Thorgan_Hazard,"La Louvière, Belgium",4.1837388,50.4747995
+Belgium,G,17,MF,Youri Tielemans,1997-05-07,21,7,0,Monaco,1,https://en.wikipedia.org/wiki/Youri_Tielemans,"Sint-Pieters-Leeuw, Belgium",4.243679999999999,50.77979999999999
+Belgium,G,18,FW,Adnan Januzaj,1995-02-05,23,7,0,Real Sociedad,1,https://en.wikipedia.org/wiki/Adnan_Januzaj,"Brussels, Belgium",4.3517211,50.8503463
+Belgium,G,19,MF,Mousa Dembélé,1987-07-16,30,74,5,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Mousa_Demb%C3%A9l%C3%A9_(Belgian_footballer),"Antwerp, Belgium",4.4024643,51.2194475
+Belgium,G,20,DF,Dedryck Boyata,1990-11-28,27,5,0,Celtic,1,https://en.wikipedia.org/wiki/Dedryck_Boyata,"Uccle, Brussels, Belgium",4.340669999999999,50.8023982
+Belgium,G,21,FW,Michy Batshuayi,1993-10-02,24,13,5,Borussia Dortmund,1,https://en.wikipedia.org/wiki/Michy_Batshuayi,"Brussels, Belgium",4.3517211,50.8503463
+Belgium,G,22,MF,Nacer Chadli,1989-08-02,28,41,4,West Bromwich Albion,1,https://en.wikipedia.org/wiki/Nacer_Chadli,"Liège, Belgium",5.5796662,50.6325574
+Belgium,G,23,DF,Leander Dendoncker,1995-04-15,23,4,0,Anderlecht,1,https://en.wikipedia.org/wiki/Leander_Dendoncker,"Passendale, Belgium",3.0207328,50.9002575
+England,G,1,GK,Jordan Pickford,1994-03-07,24,3,0,Everton,1,https://en.wikipedia.org/wiki/Jordan_Pickford,"Washington, England",-1.517366,54.89743199999999
+England,G,2,DF,Kyle Walker,1990-05-28,28,35,0,Manchester City,1,https://en.wikipedia.org/wiki/Kyle_Walker,"Sheffield, England",-1.470085,53.38112899999999
+England,G,3,DF,Danny Rose,1990-07-02,27,17,0,Tottenham Hotspur,1,"https://en.wikipedia.org/wiki/Danny_Rose_(footballer,_born_1990)","Doncaster, England",-1.128462,53.52282
+England,G,4,MF,Eric Dier,1994-01-15,24,26,3,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Eric_Dier,"Cheltenham, England",-2.0782533,51.8993855
+England,G,5,DF,John Stones,1994-05-28,24,25,0,Manchester City,1,https://en.wikipedia.org/wiki/John_Stones,"Barnsley, England",-1.479726,53.55263
+England,G,6,DF,Harry Maguire,1993-03-05,25,4,0,Leicester City,1,https://en.wikipedia.org/wiki/Harry_Maguire,"Sheffield, England",-1.470085,53.38112899999999
+England,G,7,MF,Jesse Lingard,1992-12-15,25,11,1,Manchester United,1,https://en.wikipedia.org/wiki/Jesse_Lingard,"Warrington, England",-2.5969501,53.3900441
+England,G,8,MF,Jordan Henderson,1990-06-17,27,38,0,Liverpool,1,https://en.wikipedia.org/wiki/Jordan_Henderson,"Sunderland, England",-1.4785737,54.8861515
+England,G,9,FW,Harry Kane ,1993-07-28,24,24,13,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Harry_Kane,"Walthamstow, England",-0.0173437,51.5901769
+England,G,10,FW,Raheem Sterling,1994-12-08,23,38,2,Manchester City,1,https://en.wikipedia.org/wiki/Raheem_Sterling,"Kingston, Jamaica",-76.8099041,18.0178743
+England,G,11,FW,Jamie Vardy,1987-01-11,31,21,7,Leicester City,1,https://en.wikipedia.org/wiki/Jamie_Vardy,"Sheffield, England",-1.470085,53.38112899999999
+England,G,12,DF,Kieran Trippier,1990-09-19,27,6,0,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Kieran_Trippier,"Bury, England",-2.2966054,53.5933498
+England,G,13,GK,Jack Butland,1993-03-10,25,7,0,Stoke City,1,https://en.wikipedia.org/wiki/Jack_Butland,"Bristol, England",-2.58791,51.454513
+England,G,14,FW,Danny Welbeck,1990-11-26,27,38,15,Arsenal,1,https://en.wikipedia.org/wiki/Danny_Welbeck,"Longsight, Manchester, England",-2.209688,53.463242
+England,G,15,DF,Gary Cahill,1985-12-19,32,59,5,Chelsea,1,https://en.wikipedia.org/wiki/Gary_Cahill,"Dronfield, England",-1.467959,53.30227900000001
+England,G,16,DF,Phil Jones,1992-02-21,26,24,0,Manchester United,1,"https://en.wikipedia.org/wiki/Phil_Jones_(footballer,_born_1992)","Preston, England",-2.70309,53.763201
+England,G,17,DF,Fabian Delph,1989-11-21,28,10,0,Manchester City,1,https://en.wikipedia.org/wiki/Fabian_Delph,"Bradford, England",-1.759398,53.795984
+England,G,18,DF,Ashley Young,1985-07-09,32,34,7,Manchester United,1,https://en.wikipedia.org/wiki/Ashley_Young,"Stevenage, England",-0.196612,51.903761
+England,G,19,FW,Marcus Rashford,1997-10-31,20,18,2,Manchester United,1,https://en.wikipedia.org/wiki/Marcus_Rashford,"Wythenshawe, Manchester, England",-2.2712861,53.401455
+England,G,20,MF,Dele Alli,1996-04-11,22,24,2,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/Dele_Alli,"Milton Keynes, England",-0.7594171,52.0406224
+England,G,21,MF,Ruben Loftus-Cheek,1996-01-23,22,3,0,Crystal Palace,1,https://en.wikipedia.org/wiki/Ruben_Loftus-Cheek,"Lewisham, London, England",-0.0117006,51.4414579
+England,G,22,DF,Trent Alexander-Arnold,1998-10-07,19,0,0,Liverpool,1,https://en.wikipedia.org/wiki/Trent_Alexander-Arnold,"Liverpool, England",-2.9915726,53.4083714
+England,G,23,GK,Nick Pope,1992-04-19,26,0,0,Burnley,1,https://en.wikipedia.org/wiki/Nick_Pope_(footballer),"Soham, England",0.3375079,52.335212
+Panama,G,1,GK,Jaime Penedo,1981-09-26,36,130,0,Dinamo București,1,https://en.wikipedia.org/wiki/Jaime_Penedo,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,2,DF,Michael Amir Murillo,1996-02-11,22,21,2,New York Red Bulls,1,https://en.wikipedia.org/wiki/Michael_Amir_Murillo,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,3,DF,Harold Cummings,1992-03-01,26,51,0,San Jose Earthquakes,1,https://en.wikipedia.org/wiki/Harold_Cummings,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,4,DF,Fidel Escobar,1995-01-09,23,22,1,New York Red Bulls,1,https://en.wikipedia.org/wiki/Fidel_Escobar,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,5,DF,Román Torres,1986-03-20,32,110,10,Seattle Sounders FC,1,https://en.wikipedia.org/wiki/Rom%C3%A1n_Torres,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,6,MF,Gabriel Gómez,1984-05-29,34,143,12,Atlético Bucaramanga,1,https://en.wikipedia.org/wiki/Gabriel_Enrique_G%C3%B3mez,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,7,FW,Blas Pérez,1981-03-13,37,117,43,Municipal,1,https://en.wikipedia.org/wiki/Blas_P%C3%A9rez,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,8,MF,Édgar Bárcenas,1993-10-23,24,28,0,Tapachula,1,https://en.wikipedia.org/wiki/%C3%89dgar_Yoel_B%C3%A1rcenas,Panama,-80.782127,8.537981
+Panama,G,9,FW,Gabriel Torres,1988-10-31,29,71,14,Huachipato,1,https://en.wikipedia.org/wiki/Gabriel_Torres,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,10,FW,Ismael Díaz,1997-05-12,21,10,2,Deportivo Fabril,1,https://en.wikipedia.org/wiki/Ismael_D%C3%ADaz_(Panamanian_footballer),"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,11,MF,Armando Cooper,1987-11-26,30,97,7,Universidad de Chile,1,https://en.wikipedia.org/wiki/Armando_Cooper,"Colón, Panama",-79.89986080000001,9.359302
+Panama,G,12,GK,José Calderón,1985-08-14,32,31,0,Chorrillo,1,https://en.wikipedia.org/wiki/Jos%C3%A9_Calder%C3%B3n_(Panamanian_footballer),"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,13,DF,Adolfo Machado,1985-02-14,33,75,1,Houston Dynamo,1,https://en.wikipedia.org/wiki/Adolfo_Machado,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,14,MF,Valentín Pimentel,1991-05-30,27,22,1,Plaza Amador,1,https://en.wikipedia.org/wiki/Valent%C3%ADn_Pimentel,"Santa Ana, Panama City, Panama",-79.542079,8.9567148
+Panama,G,15,DF,Erick Davis,1991-03-31,27,37,0,Dunajská Streda,1,https://en.wikipedia.org/wiki/Erick_Davis,"Colón, Panama",-79.89986080000001,9.359302
+Panama,G,16,FW,Abdiel Arroyo,1993-12-13,24,33,5,Alajuelense,1,https://en.wikipedia.org/wiki/Abdiel_Arroyo,"Colón, Panama",-79.89986080000001,9.359302
+Panama,G,17,DF,Luis Ovalle,1988-09-07,29,25,0,Olimpia,1,https://en.wikipedia.org/wiki/Luis_Ovalle,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,18,FW,Luis Tejada,1982-03-28,36,105,43,Sport Boys,1,https://en.wikipedia.org/wiki/Luis_Tejada,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,19,MF,Alberto Quintero,1987-12-18,30,89,5,Universitario,1,https://en.wikipedia.org/wiki/Ricardo_%C3%81vila,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,20,MF,Aníbal Godoy,1990-02-10,28,88,2,San Jose Earthquakes,1,https://en.wikipedia.org/wiki/An%C3%ADbal_Godoy,"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,21,MF,José Luis Rodríguez,1998-06-19,19,1,0,Gent,1,"https://en.wikipedia.org/wiki/Jos%C3%A9_Luis_Rodr%C3%ADguez_(footballer,_born_1998)","Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,22,GK,Álex Rodríguez,1990-08-05,27,6,0,San Francisco,1,https://en.wikipedia.org/wiki/%C3%81lex_Rodr%C3%ADguez_(Panamanian_footballer),"Panama City, Panama",-79.51986959999999,8.9823792
+Panama,G,23,DF,Felipe Baloy ,1981-02-24,37,102,3,Municipal,1,https://en.wikipedia.org/wiki/Felipe_Baloy,"Panama City, Panama",-79.51986959999999,8.9823792
+Tunisia,G,1,GK,Farouk Ben Mustapha,1989-07-01,28,15,0,Al-Shabab,1,https://en.wikipedia.org/wiki/Farouk_Ben_Mustapha,"Bizerte, Tunisia",9.8641609,37.2767579
+Tunisia,G,2,DF,Syam Ben Youssef,1989-03-31,29,41,1,Kasımpaşa,1,https://en.wikipedia.org/wiki/Syam_Ben_Youssef,"Marseille, France",5.36978,43.296482
+Tunisia,G,3,DF,Yohan Benalouane,1987-03-28,31,3,0,Leicester City,1,https://en.wikipedia.org/wiki/Yohan_Benalouane,"Bagnols-sur-Cèze, France",4.620075,44.16252
+Tunisia,G,4,DF,Yassine Meriah,1993-07-02,24,15,1,CS Sfaxien,1,https://en.wikipedia.org/wiki/Yassine_Meriah,"Aryanah, Tunisia",10.1647233,36.8665367
+Tunisia,G,5,DF,Oussama Haddadi,1992-01-28,26,8,0,Dijon,1,https://en.wikipedia.org/wiki/Oussama_Haddadi,"Tunis, Tunisia",10.1815316,36.8064948
+Tunisia,G,6,DF,Rami Bedoui,1990-01-19,28,8,0,Étoile du Sahel,1,https://en.wikipedia.org/wiki/Rami_Bedoui,"Sousse, Tunisia",10.634584,35.8245029
+Tunisia,G,7,FW,Saîf-Eddine Khaoui,1995-04-27,23,4,0,Troyes,1,https://en.wikipedia.org/wiki/Sa%C3%AEf-Eddine_Khaoui,"Paris, France",2.3522219,48.856614
+Tunisia,G,8,FW,Fakhreddine Ben Youssef,1991-06-23,26,38,5,Al-Ettifaq,1,https://en.wikipedia.org/wiki/Fakhreddine_Ben_Youssef,"Tunis, Tunisia",10.1815316,36.8064948
+Tunisia,G,9,MF,Anice Badri,1990-09-18,27,6,2,Espérance,1,https://en.wikipedia.org/wiki/Anice_Badri,"Lyon, France",4.835659,45.764043
+Tunisia,G,10,FW,Wahbi Khazri,1991-02-08,27,35,12,Rennes,1,https://en.wikipedia.org/wiki/Wahbi_Khazri,"Ajaccio, France",8.738635,41.919229
+Tunisia,G,11,DF,Dylan Bronn,1995-06-19,22,4,0,Gent,1,https://en.wikipedia.org/wiki/Dylan_Bronn,"Cannes, France",7.017369,43.552847
+Tunisia,G,12,DF,Ali Maâloul,1990-01-01,28,45,0,Al Ahly,1,https://en.wikipedia.org/wiki/Ali_Ma%C3%A2loul,"Sfax, Tunisia",10.7600196,34.739822
+Tunisia,G,13,MF,Ferjani Sassi,1992-03-18,26,38,3,Al-Nassr,1,https://en.wikipedia.org/wiki/Ferjani_Sassi,"Aryanah, Tunisia",10.1647233,36.8665367
+Tunisia,G,14,MF,Mohamed Amine Ben Amor,1992-05-03,26,25,1,Al-Ahli,1,https://en.wikipedia.org/wiki/Mohamed_Amine_Ben_Amor,"Sousse, Tunisia",10.634584,35.8245029
+Tunisia,G,15,FW,Ahmed Khalil,1994-12-21,23,3,0,Club Africain,1,"https://en.wikipedia.org/wiki/Ahmed_Khalil_(footballer,_born_1994)","Kairouan, Tunisia",10.1005469,35.6711663
+Tunisia,G,16,GK,Aymen Mathlouthi ,1984-09-14,33,69,0,Al-Batin,1,https://en.wikipedia.org/wiki/Aymen_Mathlouthi,"Tunis, Tunisia",10.1815316,36.8064948
+Tunisia,G,17,MF,Ellyes Skhiri,1995-05-10,23,4,0,Montpellier,1,https://en.wikipedia.org/wiki/Ellyes_Skhiri,"Lunel, France",4.135365999999999,43.67445
+Tunisia,G,18,FW,Bassem Srarfi,1997-06-25,20,4,0,Nice,1,https://en.wikipedia.org/wiki/Bassem_Srarfi,"Tunis, Tunisia",10.1815316,36.8064948
+Tunisia,G,19,FW,Saber Khalifa,1986-10-14,31,43,7,Club Africain,1,https://en.wikipedia.org/wiki/Saber_Khalifa,"Gabès, Tunisia",10.0975221,33.888077
+Tunisia,G,20,FW,Ghailene Chaalali,1994-02-28,24,6,1,Espérance,1,https://en.wikipedia.org/wiki/Ghailene_Chaalali,"La Manouba, Tunisia",10.0863269,36.8093284
+Tunisia,G,21,DF,Hamdi Nagguez,1992-10-28,25,15,0,Zamalek,1,https://en.wikipedia.org/wiki/Hamdi_Nagguez,"Menzel Kamel, Monastir, Tunisia",10.6675267,35.6232768
+Tunisia,G,22,GK,Mouez Hassen,1995-03-05,23,3,0,Châteauroux,1,https://en.wikipedia.org/wiki/Mouez_Hassen,"Fréjus, Var, France",6.737034,43.43315200000001
+Tunisia,G,23,FW,Naïm Sliti,1992-07-27,25,16,3,Dijon,1,https://en.wikipedia.org/wiki/Na%C3%AFm_Sliti,"Marseille, France",5.36978,43.296482
+Colombia,H,1,GK,David Ospina,1988-08-31,29,86,0,Arsenal,1,https://en.wikipedia.org/wiki/David_Ospina,"Medellín, Colombia",-75.5812119,6.244203
+Colombia,H,2,DF,Cristián Zapata,1986-09-30,31,55,2,Milan,1,https://en.wikipedia.org/wiki/Cristi%C3%A1n_Zapata,"Padilla, Colombia",-76.3133579,3.223586
+Colombia,H,3,DF,Óscar Murillo,1988-04-18,30,13,0,Pachuca,1,https://en.wikipedia.org/wiki/%C3%93scar_Murillo,"Armenia, Colombia",-75.6756888,4.535000399999999
+Colombia,H,4,DF,Santiago Arias,1992-01-13,26,41,0,PSV Eindhoven,1,https://en.wikipedia.org/wiki/Santiago_Arias,"Medellín, Colombia",-75.5812119,6.244203
+Colombia,H,5,MF,Wílmar Barrios,1993-10-16,24,10,0,Boca Juniors,1,https://en.wikipedia.org/wiki/W%C3%ADlmar_Barrios,"Cartagena, Colombia",-75.4794257,10.3910485
+Colombia,H,6,MF,Carlos Sánchez,1986-02-06,32,85,0,Espanyol,1,https://en.wikipedia.org/wiki/Carlos_S%C3%A1nchez_Moreno,"Quibdó, Colombia",-76.649812,5.695633
+Colombia,H,7,FW,Carlos Bacca,1986-09-08,31,45,14,Villarreal,1,https://en.wikipedia.org/wiki/Carlos_Bacca,"Puerto Colombia, Colombia",-74.950761,11.001004
+Colombia,H,8,MF,Abel Aguilar,1985-01-06,33,70,7,Deportivo Cali,1,https://en.wikipedia.org/wiki/Abel_Aguilar,"Bogotá, Colombia",-74.072092,4.710988599999999
+Colombia,H,9,FW,Radamel Falcao ,1986-02-10,32,73,29,Monaco,1,https://en.wikipedia.org/wiki/Radamel_Falcao,"Santa Marta, Colombia",-74.2110227,11.2403547
+Colombia,H,10,MF,James Rodríguez,1991-07-12,26,63,21,Bayern Munich,1,https://en.wikipedia.org/wiki/James_Rodr%C3%ADguez,"Cúcuta, Colombia",-72.4966896,7.8890971
+Colombia,H,11,MF,Juan Cuadrado,1988-05-26,30,70,7,Juventus,1,https://en.wikipedia.org/wiki/Juan_Cuadrado,"Necoclí, Colombia",-76.787678,8.427173999999999
+Colombia,H,12,GK,Camilo Vargas,1989-03-09,29,5,0,Deportivo Cali,1,https://en.wikipedia.org/wiki/Camilo_Vargas,"Bogotá, Colombia",-74.072092,4.710988599999999
+Colombia,H,13,DF,Yerry Mina,1994-09-23,23,12,3,Barcelona,1,https://en.wikipedia.org/wiki/Yerry_Mina,"Guachené, Colombia",-76.393794,3.1329159
+Colombia,H,14,FW,Luis Muriel,1991-04-16,27,18,2,Sevilla,1,https://en.wikipedia.org/wiki/Luis_Muriel,"Santo Tomás, Colombia",-74.75649899999999,10.763286
+Colombia,H,15,MF,Mateus Uribe,1991-03-21,27,8,0,América,1,https://en.wikipedia.org/wiki/Mateus_Uribe,"Medellín, Colombia",-75.5812119,6.244203
+Colombia,H,16,MF,Jefferson Lerma,1994-10-25,23,5,0,Levante,1,https://en.wikipedia.org/wiki/Jefferson_Lerma,"El Cerrito, Colombia",-76.312996,3.684084
+Colombia,H,17,DF,Johan Mojica,1992-08-21,25,4,1,Girona,1,https://en.wikipedia.org/wiki/Johan_Mojica,"Cali, Colombia",-76.5319854,3.4516467
+Colombia,H,18,DF,Frank Fabra,1991-02-22,27,19,1,Boca Juniors,1,https://en.wikipedia.org/wiki/Farid_D%C3%ADaz,"Valledupar, Colombia",-73.2436335,10.4742449
+Colombia,H,19,FW,Miguel Borja,1993-01-26,25,7,2,Palmeiras,1,https://en.wikipedia.org/wiki/Miguel_Borja,"Tierralta, Colombia",-76.062313,8.171571
+Colombia,H,20,MF,Juan Fernando Quintero,1993-01-18,25,15,2,River Plate,1,https://en.wikipedia.org/wiki/Juan_Fernando_Quintero,"Medellín, Colombia",-75.5812119,6.244203
+Colombia,H,21,FW,José Izquierdo,1992-07-07,25,5,1,Brighton & Hove Albion,1,"https://en.wikipedia.org/wiki/Jos%C3%A9_Izquierdo_(footballer,_born_1992)","Pereira, Colombia",-75.690601,4.8087174
+Colombia,H,22,GK,José Fernando Cuadrado,1985-06-01,33,1,0,Once Caldas,1,https://en.wikipedia.org/wiki/Jos%C3%A9_Fernando_Cuadrado,"Valledupar, Cesar, Colombia",-73.2436335,10.4742449
+Colombia,H,23,DF,Dávinson Sánchez,1996-06-12,21,9,0,Tottenham Hotspur,1,https://en.wikipedia.org/wiki/D%C3%A1vinson_S%C3%A1nchez,"Caloto, Colombia",-76.408081,3.033544
+Japan,H,1,GK,Eiji Kawashima,1983-03-20,35,83,0,Metz,1,https://en.wikipedia.org/wiki/Eiji_Kawashima,"Yono, Saitama, Japan",139.638935,35.88438
+Japan,H,2,DF,Naomichi Ueda,1994-10-24,23,3,0,Kashima Antlers,1,https://en.wikipedia.org/wiki/Naomichi_Ueda,"Uto, Kumamoto, Japan",130.6597212,32.6879986
+Japan,H,3,DF,Gen Shoji,1992-12-11,25,10,1,Kashima Antlers,1,https://en.wikipedia.org/wiki/Gen_Shoji,"Kobe, Japan",135.1955112,34.690083
+Japan,H,4,MF,Keisuke Honda,1986-06-13,31,94,36,Pachuca,1,https://en.wikipedia.org/wiki/Keisuke_Honda,"Settsu, Osaka, Japan",135.5618168,34.7773564
+Japan,H,5,DF,Yuto Nagatomo,1986-09-12,31,104,3,Galatasaray,1,https://en.wikipedia.org/wiki/Yuto_Nagatomo,"Saijō, Ehime, Japan",133.1811697,33.9195105
+Japan,H,6,DF,Wataru Endo,1993-02-09,25,11,0,Urawa Red Diamonds,1,https://en.wikipedia.org/wiki/Wataru_Endo,"Totsuka-ku, Yokohama, Japan",139.5335074,35.4000014
+Japan,H,7,MF,Gaku Shibasaki,1992-05-28,26,16,3,Getafe,1,https://en.wikipedia.org/wiki/Gaku_Shibasaki,"Noheji, Aomori, Japan",141.1287574,40.8644693
+Japan,H,8,MF,Genki Haraguchi,1991-05-09,27,31,6,Fortuna Düsseldorf,1,https://en.wikipedia.org/wiki/Genki_Haraguchi,"Kumagaya, Saitama, Japan",139.3886446,36.1473097
+Japan,H,9,FW,Shinji Okazaki,1986-04-16,32,112,50,Leicester City,1,https://en.wikipedia.org/wiki/Shinji_Okazaki,"Takarazuka, Hyōgo, Japan",135.3600729,34.7997673
+Japan,H,10,MF,Shinji Kagawa,1989-03-17,29,90,29,Borussia Dortmund,1,https://en.wikipedia.org/wiki/Shinji_Kagawa,"Kobe, Hyōgo, Japan",135.1955112,34.690083
+Japan,H,11,MF,Takashi Usami,1992-05-06,26,22,3,Fortuna Düsseldorf,1,https://en.wikipedia.org/wiki/Takashi_Usami,"Nagaokakyō, Kyoto, Japan",135.6957852,34.926771
+Japan,H,12,GK,Masaaki Higashiguchi,1986-05-12,32,4,0,Gamba Osaka,1,https://en.wikipedia.org/wiki/Masaaki_Higashiguchi,"Takatsuki, Osaka, Japan",135.6172716,34.8461585
+Japan,H,13,FW,Yoshinori Mutō,1992-07-15,25,22,2,Mainz 05,1,https://en.wikipedia.org/wiki/Yoshinori_Muto,"Setagaya, Tokyo, Japan",139.6532473,35.6465721
+Japan,H,14,MF,Takashi Inui,1988-06-02,30,25,2,Eibar,1,https://en.wikipedia.org/wiki/Takashi_Inui,"Ōmihachiman, Japan",136.0979067,35.1283386
+Japan,H,15,FW,Yuya Osako,1990-05-18,28,27,7,1. FC Köln,1,https://en.wikipedia.org/wiki/Yuya_Osako,"Kaseda, Kagoshima, Japan",130.5571158,31.5965535
+Japan,H,16,MF,Hotaru Yamaguchi,1990-10-06,27,41,2,Cerezo Osaka,1,https://en.wikipedia.org/wiki/Hotaru_Yamaguchi,"Nabari, Mie, Japan",136.1082959,34.6276593
+Japan,H,17,MF,Makoto Hasebe ,1984-01-18,34,109,2,Eintracht Frankfurt,1,https://en.wikipedia.org/wiki/Makoto_Hasebe,"Fujieda, Shizuoka, Japan",138.2574584,34.8673673
+Japan,H,18,MF,Ryota Oshima,1993-01-23,25,4,0,Kawasaki Frontale,1,https://en.wikipedia.org/wiki/Ryota_Oshima,"Shimizu-ku, Shizuoka, Japan",138.4895275,35.0158879
+Japan,H,19,DF,Hiroki Sakai,1990-04-12,28,41,0,Marseille,1,https://en.wikipedia.org/wiki/Hiroki_Sakai,"Kashiwa, Chiba, Japan",139.9758505,35.8676124
+Japan,H,20,DF,Tomoaki Makino,1987-05-11,31,31,4,Urawa Red Diamonds,1,https://en.wikipedia.org/wiki/Tomoaki_Makino,"Nishi-ku, Hiroshima, Japan",132.4344208,34.3939716
+Japan,H,21,DF,Gōtoku Sakai,1991-03-14,27,39,0,Hamburger SV,1,https://en.wikipedia.org/wiki/G%C5%8Dtoku_Sakai,"New York City, United States",-74.0059728,40.7127753
+Japan,H,22,DF,Maya Yoshida,1988-08-24,29,81,10,Southampton,1,https://en.wikipedia.org/wiki/Maya_Yoshida,"Nagasaki, Japan",129.877667,32.7502856
+Japan,H,23,GK,Kosuke Nakamura,1995-02-27,23,3,0,Kashiwa Reysol,1,https://en.wikipedia.org/wiki/Kosuke_Nakamura,"Kita, Tokyo, Japan",139.7334805,35.7528042
+Poland,H,1,GK,Wojciech Szczęsny,1990-04-18,28,33,0,Juventus,1,https://en.wikipedia.org/wiki/Wojciech_Szcz%C4%99sny,"Warsaw, Poland",21.0122287,52.2296756
+Poland,H,2,DF,Michał Pazdan,1987-09-21,30,31,0,Legia Warsaw,1,https://en.wikipedia.org/wiki/Micha%C5%82_Pazdan,"Kraków, Poland",19.9449799,50.06465009999999
+Poland,H,3,DF,Artur Jędrzejczyk,1987-11-04,30,35,3,Legia Warsaw,1,https://en.wikipedia.org/wiki/Artur_J%C4%99drzejczyk,"Dębica, Poland",21.4116964,50.0516417
+Poland,H,4,DF,Thiago Cionek,1986-04-21,32,17,0,SPAL,1,https://en.wikipedia.org/wiki/Thiago_Cionek,"Curitiba, Brazil",-49.3044253,-25.4808762
+Poland,H,5,DF,Jan Bednarek,1996-04-12,22,1,0,Southampton,1,https://en.wikipedia.org/wiki/Jan_Bednarek_(footballer),"Słupca, Poland",17.8720745,52.287267
+Poland,H,6,MF,Jacek Góralski,1992-09-21,25,3,0,Ludogorets Razgrad,1,https://en.wikipedia.org/wiki/Jacek_G%C3%B3ralski,"Bydgoszcz, Poland",18.0084378,53.12348040000001
+Poland,H,7,FW,Arkadiusz Milik,1994-02-28,24,38,12,Napoli,1,https://en.wikipedia.org/wiki/Arkadiusz_Milik,"Tychy, Poland",19.0200023,50.12180069999999
+Poland,H,8,MF,Karol Linetty,1995-02-02,23,19,1,Sampdoria,1,https://en.wikipedia.org/wiki/Karol_Linetty,"Żnin, Poland",17.719477,52.84938469999999
+Poland,H,9,FW,Robert Lewandowski ,1988-08-21,29,93,52,Bayern Munich,1,https://en.wikipedia.org/wiki/Robert_Lewandowski,"Warsaw, Poland",21.0122287,52.2296756
+Poland,H,10,MF,Grzegorz Krychowiak,1990-01-29,28,49,2,West Bromwich Albion,1,https://en.wikipedia.org/wiki/Grzegorz_Krychowiak,"Gryfice, Poland",15.1998891,53.91666000000001
+Poland,H,11,MF,Kamil Grosicki,1988-06-08,29,56,12,Hull City,1,https://en.wikipedia.org/wiki/Kamil_Grosicki,"Szczecin, Poland",14.5528116,53.4285438
+Poland,H,12,GK,Bartosz Białkowski,1987-07-06,30,1,0,Ipswich Town,1,https://en.wikipedia.org/wiki/Bartosz_Bia%C5%82kowski,"Braniewo, Poland",19.8200536,54.3797128
+Poland,H,13,MF,Maciej Rybus,1989-08-19,28,49,2,Lokomotiv Moscow,1,https://en.wikipedia.org/wiki/Maciej_Rybus,"Łowicz, Poland",19.9453743,52.10679160000001
+Poland,H,14,FW,Łukasz Teodorczyk,1991-06-03,27,15,4,Anderlecht,1,https://en.wikipedia.org/wiki/%C5%81ukasz_Teodorczyk,"Żuromin, Poland",19.9089046,53.0660775
+Poland,H,15,DF,Kamil Glik,1988-02-03,30,57,4,Monaco,1,https://en.wikipedia.org/wiki/Kamil_Glik,"Jastrzębie Zdrój, Poland",18.6101103,49.9454207
+Poland,H,16,MF,Jakub Błaszczykowski,1985-12-14,32,97,19,VfL Wolfsburg,1,https://en.wikipedia.org/wiki/Jakub_B%C5%82aszczykowski,"Truskolasy, Poland",18.8265593,50.8667691
+Poland,H,17,MF,Sławomir Peszko,1985-02-19,33,43,2,Lechia Gdańsk,1,https://en.wikipedia.org/wiki/S%C5%82awomir_Peszko,"Jasło, Poland",21.4722875,49.7445663
+Poland,H,18,DF,Bartosz Bereszyński,1992-07-12,25,6,0,Sampdoria,1,https://en.wikipedia.org/wiki/Bartosz_Bereszy%C5%84ski,"Poznań, Poland",16.9251681,52.406374
+Poland,H,19,MF,Piotr Zieliński,1994-05-20,24,31,4,Napoli,1,https://en.wikipedia.org/wiki/Piotr_Zieli%C5%84ski,"Ząbkowice Śląskie, Poland",16.8132419,50.5893617
+Poland,H,20,DF,Łukasz Piszczek,1985-06-03,33,61,3,Borussia Dortmund,1,https://en.wikipedia.org/wiki/%C5%81ukasz_Piszczek,"Czechowice-Dziedzice, Poland",18.9917677,49.9016056
+Poland,H,21,MF,Rafał Kurzawa,1993-01-29,25,3,0,Górnik Zabrze,1,https://en.wikipedia.org/wiki/Rafa%C5%82_Kurzawa,"Wieruszów, Poland",18.1547499,51.29486
+Poland,H,22,GK,Łukasz Fabiański,1985-04-18,33,43,0,Swansea City,1,https://en.wikipedia.org/wiki/%C5%81ukasz_Fabia%C5%84ski,"Kostrzyn nad Odrą, Poland",14.6494466,52.58718890000001
+Poland,H,23,FW,Dawid Kownacki,1997-03-14,21,1,0,Sampdoria,1,https://en.wikipedia.org/wiki/Dawid_Kownacki,"Gorzów Wielkopolski, Poland",15.2369305,52.7325285
+Senegal,H,1,GK,Abdoulaye Diallo,1992-03-30,26,16,0,Rennes,1,https://en.wikipedia.org/wiki/Abdoulaye_Diallo,"Reims, France",4.031696,49.258329
+Senegal,H,2,DF,Saliou Ciss,1989-06-15,28,18,0,Valenciennes,1,https://en.wikipedia.org/wiki/Saliou_Ciss,"Dakar, Senegal",-17.4676861,14.716677
+Senegal,H,3,DF,Kalidou Koulibaly,1991-06-20,26,24,0,Napoli,1,https://en.wikipedia.org/wiki/Kalidou_Koulibaly,"Saint-Dié-des-Vosges, France",6.947767,48.2874679
+Senegal,H,4,DF,Kara Mbodji,1989-11-22,28,51,5,Anderlecht,1,https://en.wikipedia.org/wiki/Kara_Mbodji,"Ndiass, Senegal",-17.0879032,14.6373423
+Senegal,H,5,MF,Idrissa Gueye,1989-09-26,28,59,1,Everton,1,https://en.wikipedia.org/wiki/Idrissa_Gueye,"Dakar, Senegal",-17.4676861,14.716677
+Senegal,H,6,MF,Salif Sané,1990-08-25,27,20,0,Hannover 96,1,https://en.wikipedia.org/wiki/Salif_San%C3%A9,"Lormont, France",-0.523108,44.880163
+Senegal,H,7,FW,Moussa Sow,1986-01-19,32,50,18,Bursaspor,1,https://en.wikipedia.org/wiki/Moussa_Sow,"Mantes-la-Jolie, France",1.714958,48.989323
+Senegal,H,8,MF,Cheikhou Kouyaté ,1989-12-21,28,47,2,West Ham United,1,https://en.wikipedia.org/wiki/Cheikhou_Kouyat%C3%A9,"Dakar, Senegal",-17.4676861,14.716677
+Senegal,H,9,FW,Mame Biram Diouf,1987-12-16,30,47,10,Stoke City,1,https://en.wikipedia.org/wiki/Mame_Biram_Diouf,"Dakar, Senegal",-17.4676861,14.716677
+Senegal,H,10,FW,Sadio Mané,1992-04-10,26,51,14,Liverpool,1,https://en.wikipedia.org/wiki/Sadio_Man%C3%A9,"Sédhiou, Senegal",-15.5943388,12.8836881
+Senegal,H,11,MF,Cheikh N'Doye,1986-03-29,32,24,3,Birmingham City,1,https://en.wikipedia.org/wiki/Cheikh_N%27Doye,"Rufisque, Senegal",-17.270929,14.71554
+Senegal,H,12,DF,Youssouf Sabaly,1993-03-05,25,3,0,Bordeaux,1,https://en.wikipedia.org/wiki/Youssouf_Sabaly,"Le Chesnay, France",2.130544,48.82541500000001
+Senegal,H,13,MF,Alfred N'Diaye,1990-03-06,28,19,0,Wolverhampton Wanderers,1,https://en.wikipedia.org/wiki/Alfred_N%27Diaye,"Paris, France",2.3522219,48.856614
+Senegal,H,14,FW,Moussa Konaté,1993-04-03,25,27,9,Amiens,1,https://en.wikipedia.org/wiki/Moussa_Konat%C3%A9_(footballer),"M'Bour, Senegal",-16.9653756,14.4228422
+Senegal,H,15,FW,Diafra Sakho,1989-12-24,28,10,3,Rennes,1,https://en.wikipedia.org/wiki/Diafra_Sakho,"Guédiawaye, Senegal",-17.3996674,14.7753661
+Senegal,H,16,GK,Khadim N'Diaye,1985-04-05,33,25,0,Horoya,1,https://en.wikipedia.org/wiki/Khadim_N%27Diaye,"Dakar, Senegal",-17.4676861,14.716677
+Senegal,H,17,MF,Badou Ndiaye,1990-10-27,27,18,1,Stoke City,1,https://en.wikipedia.org/wiki/Badou_Ndiaye,"Dakar, Senegal",-17.4676861,14.716677
+Senegal,H,18,FW,Ismaïla Sarr,1998-02-25,20,14,2,Rennes,1,https://en.wikipedia.org/wiki/Isma%C3%AFla_Sarr,"Saint-Louis, Senegal",-16.4818167,16.0326307
+Senegal,H,19,FW,M'Baye Niang,1994-12-19,23,5,0,Torino,1,https://en.wikipedia.org/wiki/M%27Baye_Niang,"Meulan-en-Yvelines, France",1.916319,49.008107
+Senegal,H,20,FW,Keita Baldé,1995-03-08,23,17,3,Monaco,1,https://en.wikipedia.org/wiki/Keita_Bald%C3%A9,"Arbúcies, Spain",2.511129,41.8165773
+Senegal,H,21,DF,Lamine Gassama,1989-10-20,28,35,0,Alanyaspor,1,https://en.wikipedia.org/wiki/Lamine_Gassama,"Marseille, France",5.36978,43.296482
+Senegal,H,22,DF,Moussa Wagué,1998-10-04,19,9,0,Eupen,1,https://en.wikipedia.org/wiki/Moussa_Wagu%C3%A9,"Bignona, Senegal",-16.2345633,12.8050911
+Senegal,H,23,GK,Alfred Gomis,1993-09-05,24,1,0,SPAL,1,https://en.wikipedia.org/wiki/Alfred_Gomis,"Ziguinchor, Senegal",-16.2639825,12.5641479

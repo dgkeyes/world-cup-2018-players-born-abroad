@@ -1,0 +1,131 @@
+---
+# title: "Birthplaces of players on 2018 World Cup rosters"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,
+                      warning = FALSE,
+                      message = FALSE)
+
+
+library(tidyverse)
+library(janitor)
+library(leaflet)
+library(htmltools)
+```
+
+<br>&nbsp;
+<div align="center">
+<span style="background-color: #004c97; color: #fff; padding: 10px; margin: 10px;">Born inside country</span>
+&nbsp;
+<span style="background-color: #DD8233; color: #fff; padding: 10px; margin-top: 10px;">Born outside country</span>
+</div>
+<br>&nbsp;
+
+```{r}
+
+rosters <- read_csv("data/rosters_final.csv") %>%
+     mutate(born_in_country = if_else(str_detect(birthplace, team), 
+                                      "Y",
+                                      "N")) %>%
+     mutate(born_in_country = if_else(str_detect(birthplace, "Guadeloupe"), 
+                                      "Y",
+                                      born_in_country)) %>%
+     # Deal with former Soviet countries 
+     mutate(born_in_country = case_when(
+          str_detect(birthplace, "Yugoslavia") & team == "Croatia" ~ "Y",
+          str_detect(birthplace, "Yugoslavia") & team == "Serbia" ~ "Y",
+          str_detect(birthplace, "Soviet Union") & team == "Russia" ~ "Y",
+          TRUE ~ born_in_country
+     )) %>%
+     arrange(team)
+
+
+# Get list of teams
+
+teams <- unique(rosters$team)
+
+```
+
+```{r include = TRUE}
+
+dk.blue <- "#004c97"
+dk.orange <- "#DD8233"
+dk.gray <- "#D3D3D3"
+
+
+
+
+players_born_abroad <- rosters %>%
+     group_by(team, born_in_country) %>%
+     summarize(n = n()) %>%
+     filter(born_in_country == "N") %>%
+     mutate(player_players = ifelse(n == 1, "player", "players")) %>%
+     mutate(team_label = paste(team, 
+                               ": ",
+                               n,
+                               " ",
+                               player_players,
+                               " born abroad", 
+                               sep = "")) %>%
+     pull(team_label)
+
+
+team_map <- list()
+
+for (i in 1:32) {
+     
+     single_team <- rosters %>%
+          filter(team == teams[i]) %>%
+          mutate(lon = jitter(lon, factor = 5)) %>%
+          mutate(lat = jitter(lat, factor = 5))
+     
+     players_born_abroad <- single_team %>%
+          group_by(team, born_in_country) %>%
+          summarize(n = n()) %>%
+          filter(born_in_country == "Y") %>%
+          mutate(n = 23 - n) %>%
+          mutate(player_players = ifelse(n == 1, "player", "players")) %>%
+          mutate(team_label = paste(n,
+                                    " ",
+                                    player_players,
+                                    " born abroad", 
+                                    sep = "")) %>%
+          pull(team_label)
+     
+     
+     
+     # players_born_abroad <- ifelse(identical(players_born_abroad, integer(0)),
+     #                               0,
+     #                               players_born_abroad)
+     
+     
+     
+     team_map <- c(team_map, 
+                   list(h3(paste0(teams[i], 
+                                  ": ",
+                                  players_born_abroad,
+                                  sep = "")),
+                        leaflet() %>%
+                             addProviderTiles(providers$CartoDB.Positron) %>%
+                             addCircleMarkers(data = single_team,
+                                              color = case_when(
+                                                   single_team$born_in_country == "Y" ~ dk.blue,
+                                                   single_team$born_in_country == "N" ~ dk.orange
+                                              ),
+                                              popup = paste("Player: ", 
+                                                            single_team$player, 
+                                                            "<br>",
+                                                            "Birthplace: ",
+                                                            single_team$birthplace,
+                                                            sep = ""),
+                                              fillOpacity = .75)
+                   ))
+}
+
+tagList(team_map)
+
+
+
+```
